@@ -9,5 +9,6 @@ if exists(archive_name):
         if "title" in m:
             patern = re.compile("(title={)|(},?)")
             t = patern.sub("", m)
-            l1.append(t)
+            if not t in l1:
+                l1.append(t)
             print(l1)

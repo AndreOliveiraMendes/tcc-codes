@@ -11,4 +11,4 @@ if exists(archive_name):
             t = patern.sub("", m)
             if not t in l1:
                 l1.append(t)
-            print(l1)
+            print(t)

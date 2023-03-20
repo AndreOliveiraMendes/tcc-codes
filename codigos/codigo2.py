@@ -1,3 +1,4 @@
+from os.path import exists
 import re
 archive_name = "/content/drive/MyDrive/tcc/e1 B2 scopus 1368.bib"
 l1 = []

@@ -7,5 +7,6 @@ if exists(archive_name):
     for m in msg:
         if "TI " in m:
             t = m.replace("TI ", "")
+            if not t in l2:
+                l2.append(t)
             print(t)
-            l2.append(t)

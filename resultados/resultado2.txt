@@ -1,1 +1,1086 @@
-The need for standards in bibliometric research and technologyTHE NEURAL NET OF NEURAL NETWORK RESEARCH - AN EXERCISE IN BIBLIOMETRICSoftware survey: VOSviewer, a computer program for bibliometric mappingFatal attraction: Conceptual and methodological problems in the rankingRESEARCH OUTPUT EVALUATION OF 2 UNIVERSITY DEPARTMENTS IN GREECE WITHBibliometrics-aided retrieval: where information retrieval meetsUsing Bayesian networks to discover relationships between bibliometricThe bibliometric analysis of scholarly production: How great is theSOME OBSERVATIONS ON THE USE OF BIBLIOMETRIC INDICATORS IN THEQuality of research: which underlying values?Systematic analysis of coverage and usage of conference proceedings inThe j-index: a new bibliometric index and multivariate comparisonsNational research assessment exercises: a comparison of peer review andThe application of bibliometric analysis: disciplinary and user aspectsBibliometric analysis of biotechnologyApplying bibliometric mapping in a high level science policy contextAdvanced bibliometric methods as quantitative core of peer review basedResponse to Chuang and Ho's comments on "a bibliometric study of theResearch strengths identified by esteem and bibliometric indicators: aBibliometric analysis of corporate governance research inMapping computer science research in Africa: using academic networkingEuropean research policy and bibliometric indicators, 1990-2005Combining concept maps and bibliometric maps: First explorationsInstitutional h-index: The performance of a new metric in the evaluationMeasuring knowledge flows between countries: The use of scientificEvidence base, quantitation and collaboration: three novel indices forEarly recognition of high quality researchers of the German psychiatryDifferences in the construction of SCI based bibliometric indicatorsAutomated Research Impact Assessment: a new bibliometrics approachA cautionary bibliometric tale of two citiesBusiness cycles in the economy and in economics: an econometric analysisClassifications of science and their effects on bibliometric evaluationsForecasting trends of development of psychology from a bibliometricNanotechnology - Interdisciplinarity, patterns of collaboration andBibliometric output from Colombian researchers with approved projects byThe troubles of high-profile open access megajournalsA bibliometric approach to tracking international scientific migrationAn impact-citations-exergy (iCX) trajectory analysis of leading researchScience macro-indicators: Some aspects of OST experienceMeasuring impact by a full option method and the notion of bibliometricReverse-engineering conference rankings: what does it take to make aCorrecting glasses help fair comparisons in international scienceThe cognitive structure of current cardiovascular researchAn analysis of bibliometric indicators to JCR according to Benford's lawAre bibliometric measures consistent with scientists' perceptions? TheA review of the characteristics of 108 author-level bibliometricNEW BIBLIOMETRIC TOOLS FOR THE ASSESSMENT OF NATIONAL RESEARCHMimicry in science?The journal coverage of Web of Science and Scopus: a comparativeWhich role do non-source items play in the social sciences? A case studyTen challenges in modeling bibliographic data for bibliometric analysisBibliometric positioning of scientific manufacturing journals: aMeso-level retrieval: IR-bibliometrics interplay and hybridThe effect of database dirty data on h-index calculationDevelopment of a semi-automatic bibliometric system for publications onA flexible bibliometric approach for the assessment of professorialHarmonic publication and citation counting: sharing authorship credit50 years of space research in Europe: a bibliometric profile of theThe influence of author self-citations on bibliometric meso-indicators.A bibliometric analysis of NOAA's Office of Ocean Exploration andThe ''mad cow disease'', Usenet newsgroups and bibliometric lawsSevere language effect in university rankings: particularly Germany andWhich can better predict the future success of articles? BibliometricDoes co-authorship inflate the share of self-citations?The evaluation of university departments and their scientists: SomeOpen access initiatives in European universities: analysis of theirNormalizing Google Scholar data for use in research evaluationTesting bibliometric indicators by their prediction of scientistsTwo citation-based indicators to measure latent referential value ofHow do NIHR peer review panels use bibliometric information to supportMeasuring institutional research productivity for the life sciences: theDoes the average JIF percentile make a difference?Twenty-five years of Australian nursing and allied health professionalASSESSING MULTIDISCIPLINARY AREAS OF SCIENCE AND TECHNOLOGY - APublications and patents in nanotechnology - An overview of previousCo-word analysis and thematic landscapes in Spanish information scienceA new bibliometric approach to measure knowledge transfer ofValidating indicators of interdisciplinarity: linking bibliometricThe Energy-Exergy-Entropy (or EEE) sequences in bibliometric assessmentA COMPARATIVE-STUDY OF BIBLIOMETRIC PAST PERFORMANCE ANALYSIS AND PEERBibliometric analysis for development of research strategies inBusiness portfolio restructuring: a comprehensive bibliometric reviewAnalysis of publication patterns in Korean library and informationBibliometric analysis of physics in Catalonia: Towards qualityHCR for assessment of scientific journals in chemistryMethodological and conceptual questions of bibliometric standardsAPPLIED VERSUS BASIC SCIENCE IN THE LITERATURE OF PLANT BIOLOGY - ABibliometric analysis - A new business area for informationMissing documents in Scopus: the case of the journalEnfermeriaStudying the international diffusion of a national scientific journalImpact measures of interdisciplinary research in physicsHow cross-disciplinary is bionanotechnology? Explorations in theResearch on Covid-19: a disruptive phenomenon for bibliometricsBuilding the genealogy of family business internationalization: aFour aspects of the institutionalization of physics research in IndiaA BIBLIOMETRIC STUDY OF THE PUBLICATIONS OF THEStudying research collaboration using co-authorshipsThe research trends forecasted by bibliometric methodology: a case studyCANADIAN RESEARCH ACTIVITY IN AQUACULTURE - A BIBLIOMETRIC ANALYSISBibliometric indicators in the study of Asperger syndrome between 1990Blockmodeling of co-authorship networks in library and informationIs the promotion of research reflected in bibliometric data? A networkInfluence of omitted citations on the bibliometric statistics of theRESEARCH PERFORMANCE INDICATORS FOR UNIVERSITY DEPARTMENTS - A STUDY OFTHE APPLICATION OF BIBLIOMETRIC INDICATORS - IMPORTANT FIELD-DEPENDENTAn empirical approach to compare the performance of heterogeneousHow to identify research groups using publication analysis: an exampleToward a stochastically robust normalized impact factor against fraudCount highly-cited papers instead of papers with h citations: useThree new bibliometric indicators/approaches derived from keywordErrors in DOI indexing by bibliometric databasesGoogle Scholar Metrics evolution: an analysis according to languagesSocio-bibliometric mapping of intra-departmental networksAnalysis of the Spanish scientific and technological output in the ICTThe difficulty of achieving full coverage of international socialSocio-economic effects of the material science in JAERIA bibliometric study of psychological research on tourismComprehensive metrological and content analysis of the public-privateA SCIENTOMETRIC COGNITIVE STUDY OF NEURAL-NETWORK RESEARCH - EXPERTThe application of bibliometric analyses in the evaluation of socialUsing a bibliometric approach to support research policy making: TheThe story behind Oncotarget? A bibliometric analysisBibliometric characteristics of the journal Science: Pre-Koshland,Bibliometric analysis in motorcycle accident research: a global overviewAn overview of iris recognition: a bibliometric analysis of the periodCoping with the problem of subject classification diversityUsing Monte Carlo simulations to assess the impact of author nameAn impact indicator for researchersA multivariate stochastic model to assess research performanceConstructing a new patent bibliometric performance measure by usingA bibliometric tale of two cities: Hong Kong and SingaporeBibliometric characteristics of highly cited papers from Taiwan,ASSESSMENT OF THE INTERNATIONAL STANDING OF UNIVERSITY DEPARTMENTSOn the analogy between the evolution of thermodynamic and bibliometricThe rise of "blockchain": bibliometric analysis of blockchain studyUnravelling the scientific research on grape and wine phenolicThe "Mendel syndrome" in science: durability of scientific literatureThe unification of institutional addresses applying parametrizedMethodological quality in clinical trials and bibliometric indicators:Tracking researchers and their outputs: new insights from ORCIDsCapturing new developments in an emerging technology: an updated searchSoftware survey: ScientoPy, a scientometric tool for topics trendBibliometric performance measuresImproving the functionality of interactive bibliometric science mapsSectoral collaboration in biomedical research and developmentMetrics to evaluate research performance in academic institutions: aHow to combine term clumping and technology roadmapping for newlyApplications for bibliometric research in the emerging digital librariesHoly Grail of science policy: Exploring and combining bibliometric toolsBibliometric analysis on the association between behavioral finance andA bibliometric study of research activity in ASEAN related to the EU inModeling uncertainty in bibliometrics and information retrieval: anOnline classified advertising: a review and bibliometric analysisAre peer-review activities related to reviewer bibliometric performance?Transition to postmodern science-related scientometric dataMeasuring changes in publication patterns in a context ofAre you in top 1% (1 parts per thousand)?Central indexes to the citation distribution: a complement to theCommonalities and differences between scholarly and technicalBibliometric spectroscopy of Russia's nanotechnology: 2000-2014The research activity of the current faculty of the Greek chemicalUse of ResearchGate and Google CSE for author name disambiguationThe impact of impact factor on small specialties: A case study of familyScientometric perspectives of the analysis of chemical terminologyThe information value of early career productivity in mathematics: a ROCThe fractal dimension of a citation curve: quantifying an individual'sMapping the literature on credit unions: a bibliometric investigationMultiparametric characterization of scientometric performance profilesInspecting the Achilles heel: a quantitative analysis of 50 years ofCitation patterns in the Kuwaiti journal Medical Principles andCommemorating Judit Bar-Ilan from bibliometric and altmetricA BIBLIOMETRIC PROFILE OF TOP-SCIENTISTS - A CASE-STUDY INScientific production on mobile information literacy in higherComparative analysis of some individual bibliometric indices whenImpact assessment of a support programme of science-based emergingInternationality at university levelTopical connections between the institutions within an organisationThe evolution of data science and big data research: A bibliometricWhich differences can be expected when two universities in the LeidenA BIBLIOMETRIC ANALYSIS OF COLLABORATION IN A MEDICAL SPECIALTYStandardizing formats of corporate source dataMeasuring the impact of scientific publications. The case of theProperties of journal impact in relation to bibliometric research groupScientific collaboration in Library and Information Science viewedRatio of short term and long term impact factors and similarities ofThe global science base of information and communication technologies:Neuroscience output of China: A MEDLINE-based bibliometric studyThe role of domestic journals in geographically-oriented disciplines:Desktop scientometricsComparison of the Hirsch-index with standard bibliometric indicators andWhat is special about patent citations? Differences between scientificTHE EVALUATION OF PLANT BIOMASS RESEARCH - A CASE-STUDY OF THE PROBLEMSOpinion paper: thoughts and facts on bibliometric indicatorsBetter late than never? On the chance to become highly cited only beyondLeadership of the present, current theories of multiple involvements: aPublication trends and co-citation mapping of translation studiesImpact of bibliometric studies on the publication behaviour of authorsBibliometric analysis and private research fundingCareer advancement and scientific performance in universitiesWhat is co-authorship?Some new tests of relevance theory in information scienceImpact of bibliometrics upon the science system: InadvertentBibliometric standards: Personal experience and lessons learnedVisibility of collaboration on the WebA BIBLIOTHECONOMIC ANALYSIS OF THE IMPACT FACTORS OF SCIENTIFICBiotechnology profile analysis in ColombiaLarge-scale bibliometric review of diffusion researchConference proceedings as a matter of bibliometric studies: the AcademyInflationary bibliometric values: The role of scientific collaborationLack of standardisation in informetric research. Comments on "Power lawsFilling the citation gap: measuring the multidimensional impact of theProfessional and citizen bibliometrics: complementarities andGraph-based algorithms for ranking researchers: not all swans are white!ON THE SIGNIFICANCE OF DATA-BASES KEYWORDS FOR A LARGE-SCALEBibliometric analysis of diadromous fish research from 1970s to 2010: aOpening the black box of academic entrepreneurship: a bibliometricWhy it has become more difficult to predict Nobel Prize winners: aBRADFORD LAW AND THE RELATIONSHIP BETWEEN ECOLOGY AND BIOGEOGRAPHYMeasuring multidisciplinary health research at South AfricanDiversity and network coherence as indicators of interdisciplinarity:Comparison and evaluation of Chinese research performance in the fieldGender gap in medical research: a bibliometric study in Swiss universityBibliometric analysis to identify an emerging research area: PublicGOVERNMENT-FUNDED ACADEMIC SCIENCE IS A CONSUMER GOOD, NOT A PRODUCERA comparative study on world university rankings: a bibliometric surveyStudying scientific migration in ScopusPolicy change analysis based on "policy target-policy instrument"The scientific specialisation of the Italian regionsMultivariate analysis of credit risk and bankruptcy research data: aUniversality of performance indicators based on citation and referenceSynthesizing scientometric patterns in Spanish educational researchScience in Brazil. Part 2: Sectoral and institutional research profilesHow latecomers catch up to leaders in high-energy physics as BigInterfaces between production engineering and the public affairs:Meta-analysis in psychology: a bibliometric studyA DUAL REFINEMENT OF JOURNAL SELF-CITATION MEASURESA bibliometric analysis of international scientific cooperation of theLongitudinal patterns in Spanish doctoral theses on scientific medicalEvolving importance of anticancer research using herbal medicine: aCo-author inclusion: A novel recursive algorithmic method for dealingA look back over the past 40 years of female entrepreneurship: mappingMicrosoft Academic (Search): a Phoenix arisen from the ashes?Tracking the emergence of synthetic biologyThe fractional and harmonic p-indices for multiple authorshipCharacterisation of the chi-index and the rec-indexA comparison of Scopus and Web of Science for a typical universityECCLESIASTES EFFECTSRethinking bibliometric data concerning gender studies: a response toEnvironmental sciences research in northern Australia, 2000-2011: aMapping interdisciplinary research fronts in neuroscience: AInternational versus national oriented Brazilian scientific journals. APARTIAL ASSESSMENT OF MEXICAN HEALTH-SCIENCES RESEARCH 1982-1986The trench warfare of gender discrimination: evidence from academicBibliometric studies outside the information science and library scienceDisciplinary dimensions and social relevance in the scientificBibliometric study on food science and technology: Scientific productionA bibliometric analysis of the Turkish software engineering researchBibliometric analysis for the literature of traditional Chinese medicineAnalysis of the Czech and Hungarian physiology publications 1994-2011Bibliometric analysis of the journal literature on women's studiesA concise review on the role of author self-citations in informationFacebook in educational research: a bibliometric analysisObsolescence of literature in the field of psychologyIntellectual activities and influences of Belver C. Griffith: A citationTHE ORTEGA HYPOTHESIS, INDIVIDUAL-DIFFERENCES, AND CUMULATIVE ADVANTAGETracing the knowledge-building dynamics in new stem cell technologiesTrends in Russian research output in post-Soviet eraBibliometric analysis of two subdomains in philosophy: free will andStudying the characteristics of scientific communities usingPublication and citation patterns of the Mexican contribution to a "BigEvaluation activities in the Nordic countriesCardiovascular research in Spain. A comparative scientometric studyDoes the Financial Times FT50 journal list select the best managementTracking self-citations in academic publishingDepicting communities of Romani studies: on the who, when and where ofValidation of bibliometric indicators in the field of microbiology: ABibliometric analysis of severe acute respiratory syndrome-relatedComputer models for identifying instrumental citations in the biomedicalScientific research collaboration in ChinaThe strength of strong ties: How co-authorship affect productivity ofA new approach to the analysis and evaluation of the research output ofA dense network sub-grouping algorithm for co-citation analysis and itsValidation of bibliometric indicators in the field of mathematicsCitation analysis with microsoft academicRehabilitation using virtual reality technology: a bibliometricMeasuring international knowledge flows and scholarly impact ofA comparative analysis of publication activity and citation impact basedSocial network analytics for advanced bibliometrics: referring to actorA research framework to explore knowledge evolution and scholarlyAn axiomatic characterization of the ranking based on the h-index andBetween policy categories and research activities: Reviews and journalsEvaluation of Brazilian research output in education: confrontingBibliometrics evaluation of research performance inGlobal liposome research in the period of 1995-2014: a bibliometricA bibliometric study of the world's research activity in sustainableAn advanced diffusion model to identify emergent research issues: theLean in information technology departments or companies: identifyingDoes an expert-based evaluation allow us to go beyond the Impact Factor?Global analysis of the E-learning scientific domain: a decliningAssessing the effects of the German Excellence Initiative withAn item-by-item subject classification of papers published inAn algorithmic historiography of the Ebola research specialty: mappingDetecting the knowledge structure of bioinformatics by mining full-textA BIBLIOMETRIC STUDY ON MEDICINE CHINESE TRADITIONAL IN MEDLINE DATABASEExperimental evaluation of parameter settings in calculation of hybridIntroducing sub-impact factor (SIF-) sequences and an aggregatedResearch productivity: Are higher academic ranks more productive thanBIBLIOMETRIC EVALUATION OF AGRICULTURAL LITERATURE PUBLISHED IN MALAYSIAA PROFILE OF CANADIAN COAL AND PETROLEUM RESEARCH COMMUNITIESKnowledge linked to museum specimen vouchers: measuring scientificBibliometric analysis of tsunami researchAges of cited references and growth of scientific knowledge: anPercentile and stochastic-based approach to the comparison of the numberExplaining the transatlantic gap in research excellenceEffect of high energy physics large collaborations on higher educationUse of citation per publication as an indicator to evaluateReflection of co-authorship networks in the Web: Web hyperlinks versusInternational scientific collaboration of China with the G7 countriesRescher's principle of decreasing marginal returns of scientificBibliometric indicators reflect publication and management strategiesINTERNATIONAL SCIENTIFIC COLLABORATION IN ARAB COUNTRIESA note on using revealed comparative advantages in scientometricsCitation-based metrics are appropriate tools in journal assessmentGROWTH OF LECTIN LITERATURE - 1954-1982DEVELOPMENT OF A METHOD FOR DETECTION AND TREND ANALYSIS OF RESEARCHA bibliometric study of bioinformatics research in South AfricaA bibliometric study of semiconductor literature, 1978-1997Women, peace and security state-of-art: a bibliometric analysis inMeasuring China's research performance using the Science Citation IndexDoes cumulative advantage affect collective learning in science? An'Triad' or 'tetrad'? On global changes in a dynamic worldUniversity-industry linkages' literature on Sub-Saharan Africa:Opportunities and challenges of interbasin water transfers: a literatureEU27 and USA leadership in fruit and vegetable research: a bibliometricThe emerging dynamic structure of national innovation studies: aEvaluating the research performance of the Greek medical schools usingBibliometric analysis of patent ductus arteriosus treatmentsUSING BIBLIOMETRICS IN STRATEGIC ANALYSIS - UNDERSTANDINGPlots for visualizing paper impact and journal impact of singleTHE SCIENTIFIC OUTPUT OF THE ECS LESS FAVORED REGIONSA comparison of 17 author-level bibliometric indicators for researchersOn bibliometrics in academic promotions: a case study in computerExamining how country-level science policy shapes publication patterns:Research characteristics and status on social media in China: AProceedings literature as additional data source for bibliometricCuban scientific articles in ISI citation indexes and CubaCienciasBIBLIOMETRIC CARTOGRAPHY OF SCIENTIFIC AND TECHNOLOGICAL DEVELOPMENTS OFMapping scientific institutionsHierarchical linear models in psychiatry: A bibliometric studyOrganizational factors influencing scholarly performance: a multivariateThe measurement of Italian universities' research productivity by a nonBibliometric evaluation of the research performance of the Greek civilPublication in 6 rehabilitation professions: a five-yearThe transtheoretical model and obesity: A bibliometric studyURAP-TR: a national ranking for Turkish universities based on academicOn chaos in bibliometric terminologyProfile of the Mexican health sciences elite: A bibliometric analysis ofWhy are we so attached to the "ethno" prefix in Brazil?Visualizing the GVC research: a co-occurrence network based bibliometricThe life span of a specific topic on the Web - The case ofSlow reception and under-citedness in climate change research: A caseData integration in ScandinaviaBibliometric analysis of biological invasions research during the periodResearch quality and diversity of funding: A model for relating researchOverlaying communities and topics: an analysis on publication networksDo simultaneous inventions sleep? A case study on nursing sleepingCollecting large-scale publication data at the level of individualFull-text publications in peer-reviewed journals derived fromBibliometric study of bioinformatics literatureA scientometrics law about co-authors and their ranking: the co-authorA longitudinal study of intellectual cohesion in digital humanitiesAn approach to interdisciplinarity bibliometric indicatorsExperiences with the national citation reports database for measuringWhat is the difference in global research on Central Asia before andSome thoughts on the interaction between scientometrics and science andComparison of research team activity in two biomedical fieldsAN OVERVIEW OF MORAVCSIK,MIKE PUBLICATION ACTIVITY IN PHYSICSIndicators for the dynamics of research organizations: a biomedical caseA three-dimensional bibliometric evaluation of research in polymer solarA structural analysis of benchmarks on different bibliometricalBibliometric fingerprints: name disambiguation based on approximateIdentification and characterisation of technological topics in the fieldKnowledge network hubs and measures of research impact, scienceOn measuring scholarly influence by citationsEstimate of global research trends and performance in family therapy inMapping the state of the art of ergonomics within logisticsIs Google Scholar useful for bibliometrics? A webometric analysisBibliometric analysis of AIDS literature in Latin America and theResearch landscape of the BRICS countries: current trends in researchLanguage trends in nanoscience and technology: The case ofThe internationalization of Chinese scientific journals: A quantitativeAssessing researcher interdisciplinarity: a case study of the UniversityScientometrics as a tool for analysis of the industrial relationships of35 years and 160,000 articles: A bibliometric exploration of theAuthorship trends in software engineeringCoverage of highly-cited documents in Google Scholar, Web of Science,Scientometrics of peer reviewThe level of research in advanced composite materials in the countriesBibliometric monitoring of research performance in the social sciencesHow hot are hot papers? The issue of prolificacy and self-citationStudy the brain drain: Can bibliometric methods help?Scientific Quality Index: a composite size-independent metric comparedBibliometric analysis of the Czech research publications from 1994 toIncreasing discrepancy between absolute and effective indexes ofAssessing stem cell research productivityEvaluating research: from informed peer review to bibliometricsThe role of Chinese-American scientists in China-US scientificMapping of R&D structures in transdisciplinary areas: New biotechnologyInfluence of the international collaboration in the field of metricAn analysis of document types published in journals related to physics:Evaluating the academic trend of RFID technology based on SCI and SSCIInterdisciplinary information input and output of a nano-technologyNational research profiles in a changing Europe (1983-2003) - AnContribution of Turkish researchers to the world's biomedical literatureComprehensive indicator comparisons intelligible to non-experts: theA bibliometric profile of Flemish research in natural, life andEntrepreneurial cognition and socially situated approach: a systematicTHE RECEPTION OF POLISH PHILOLOGY ABROADOrganizational ambidexterity: exploring the knowledge baseA two-dimensional bibliometric index reflecting both quality andAnalyzing knowledge entities about COVID-19 using entitymetricsHow well developed are altmetrics? A cross-disciplinary analysis of theHow does scientific success relate to individual and organizationalEvaluation and interpretation of knowledge production efficiencyWeb of Science and Scopus language coveragePublication attributes of leadership: what do they mean?A bibliometric tool to assess the regional dimension ofVisualizing the studies on smart cities in the past two decades: aInternational scientific collaboration of China: collaboratingIs correspondence reflected in the author position? A bibliometric studyScientific production and collaboration in Epidemiology and PublicUnderstanding the relevance of national culture in internationalAre the h-index and some of its alternatives discriminatory ofThe Journal's Integrated Impact Index: a new indicator for journalMeasuring the use of public research in firm R&D in the Hsinchu ScienceR&D dynamics and scientific breakthroughs in HIV/AIDS drugs development:Indicators of failed information epidemics in the scientific journalA national-scale cross-time analysis of university research performanceThe publication and citation output of German Faculties of Economics andThe effect of team consolidation on research collaboration andTracking techno-science networks: A case study of fuel cells and relatedLocal, domestic and international scientific collaboration in biomedicalWhat do UK academics cite? An analysis of references cited in UKAn iCE map approach to evaluate performance and efficiency of scientificHow much is a collaboration worth? A calibrated bibliometric modelDEVELOPMENT OF BIBLIOMETRIC INDICATORS FOR UTILITY OF RESEARCH TO USERSScope, characteristics, and use of the U.S. Department of Agriculture'sSpecialization versus diversification in research activities: theThe field-standardized average impact of national research systemsA collective and abridged lexical query for delineation ofEmbedded information structures and functions of co-authorship networks:A snapshot of EU publications in sleep research: A scientometric surveyCombining full-text analysis and bibliometric indicators. A pilot studyLanguage biases in the coverage of the Science Citation Index and itsTwenty years of statistical learning: from language, back to machineThe unified scientometric model. Fractality and transfractalityTracing the role of individual journals in a cross-citation networkThe quality-quantity-quasity and energy-exergy-entropy exegesis ofBibliometric laws: Empirical flaws of fitDestructive leadership in organizational research: a bibliometricWeb 2.0 and its dimensions in the scholarly worldThe global institutionalization of nanotechnology research: AInaccuracies in titles on bibliometrics in biomedical journalsCreative accomplishments in science: definition, theoreticalA comparison of bibliometric indicators for computer science scholarsThird party funding of German universities. An indicator of researchAn analysis of editorial board members' publication output inDeconstructing doctoral dissertations: how many papers does it take toThe "space of physics journals": topological structure and the JournalResearch hotspots and current challenges of lakes and reservoirs: aA geostatistical analysis of geostatisticsBIBLIOGRAPHICAL CARTOGRAPHY OF AN EMERGING INTERDISCIPLINARY DISCIPLINEThe correlation between paper length and citations: a meta-analysisAn exploratory study on collaboration profiles of Chinese publicationsPredicting long-run citation counts for articles in top economicsResearch trends analysis by comparing data mining and customerChina-US scientific collaboration in nanotechnology: patterns andDevelopment and application of journal impact measures in the DutchEmergence of modern scientific discourse in the American continent:Researchers' risk-smoothing publication strategies: Is productivity theGolden-ratio as a substitute to geometric and harmonic counting toResearch status and trends in limnology journals: a bibliometricA bibliometric analysis of the Scielo database: a Brazilian portfolio ofAn interdisciplinary and systems-based evaluation of academic programs:James Bond and citations to his booksBibliometric mapping of science in a science policy contextQuantitative evaluation of the production and trends in researchCitation analysis of cuban research. Part 1. A case study: the CubanPersistent nepotism in peer-reviewTen years Matthew effect for countriesNanobiotechnology as an emerging research domain from nanotechnology: AA bibliometric analysis of waste management research during the periodEvaluating the performance of electromagnetic fields (EMF) research workA ranking of universities should account for differences in theirInvestigation of collaborative research trends in Indian medicalPropaganda as a research field: a bibliometric studyNetworks of knowledge: The distributed nature of medical innovationIran's scientific dominance and the emergence of South-East AsianA bibliometric review of research on international student mobilities inThe suitability of h and g indexes for measuring the researchAssessing the knowledge base for biotechnology in South Africa - AInterdisciplinarity and the intellectual base of literature studies:Document categories in the ISI Web of Knowledge: Misunderstanding theUsing content-based and bibliometric features for machine learningA bibliometric methodology to unveil territorial inequities in theRecent internationalization of global environmental change research inA bibliometric analysis of research on upflow anaerobic sludge blanketPatterns of author cogitation in information policy: Evidence of social,National and international university departmental Web siteSPECIALIZATION AND SIZE OF SCIENTIFIC ACTIVITIES - A BIBLIOMETRICAtapuerca: evolution of scientific collaboration in an emergentHow is an academic social site populated? A demographic study of GoogleHow much do different ways of calculating percentiles influence theGender differences in research productivity: A bibliometric analysis ofPolicy impact of bibliometric rankings of research performance ofGlobal trends in scientific production in enology and viticulture inThe weight of author self-citations. A fractional approach toWERE HAS THE CUMULATIVE ADVANTAGE GONE - SOME OBSERVATIONS ABOUT THEA simple back-of-the-envelope test for self-citations using GoogleFeature report on China: a bibliometric analysis of China-relatedA variation of the calculation of the first author cocitation strengthAlphabetic order of authors in scholarly publications: a bibliometricAn outcome of nuclear safety research in JAERI: case study for LOCAThe dynamic capabilities perspective of strategic management: aSomes patterns of Cuban scientific publication in Scopus: the currentGeographical distance in bibliometric relations within epistemicMeasuring the influence of clinical trials citations on severalAPPLES AND ORANGES - THE AGGREGATION PROBLEM IN PUBLICATIONS ANALYSISA made-to-measure indicator for cross-disciplinary bibliometric rankingRural informatization policy evolution in China: a bibliometric studySemantic fingerprints-based author name disambiguation in ChineseUSE OF BIBLIOGRAPHIC DATABASES FOR SCIENTOMETRIC STUDIESCorrelations between bibliometrics and peer evaluation for all'Seed plus expand': a general methodology for detecting publicationA comparison of disciplinary structure in science between the G7 and theThe role of editorial material in bibliometric research performanceA bibliometric study of earthquake research: 1900-2010A compendium of issues for citation analysisDOES IT PAY TO COOPERATE - A BIBLIOMETRIC CASE-STUDY INIS SCIENTISTS PUBLISHING BEHAVIOR REWARD-SEEKINGWeb networks of the science system: Weighted hubs and authoritiesScientific productivity and cooperation in Turkic world: a bibliometricThe top-cited research works in the Science Citation Index ExpandedPerspectives of webometricsUsing altmetrics for assessing research impact in the humanitiesBibliometric analysis of output and impact based on CRIS data: a caseA simple interpretation of the growth of scientific/technologicalOut of particles: Impact of CERN, DESY and SLAC research to fields otherCriticism on the hg-indexINDUSTRIAL-RESEARCH IN INDIA AS VIEWED THROUGH RESEARCH AND INDUSTRYMining citation information from CiteSeer dataComparative study of physics research in India and China based onBibliometric study of the scientific research on "Learning to Rank"The fruits of collaboration in a multidisciplinary fieldIn matters of quantitative studies of science the fault of theorists isThe dangers of performance-based research funding in non-competitiveBibliometric analysis of AIDS literature in Central AfricaA decade of in-text citation analysis based on natural languageWhy with bibliometrics the Humanities does not need to be the weakestHAS PRICE DREAM COME TRUE - IS SCIENTOMETRICS A HARD SCIENCEUsing patent analyses to monitor the technological trends in an emergingSubfield-specific normalized relative indicators and a new generation ofThe implicit preference of bibliometrics for basic researchTracking R&D behavior: bibliometric analysis of drug patents in theAuthor disambiguation using multi-aspect similarity indicatorsA look at interdisciplinarity using bipartite scholar/journal networksMapping the knowledge domain and the theme evolution of appropriabilityAnalysing the conceptual evolution of qualitative marketing researchINTERNATIONAL SCIENTIFIC COOPERATION AND AWARENESS WITHIN THE EUROPEANResearch evaluation of research-oriented universities in Taiwan fromHome bias effect in the management literatureA STOCHASTIC-MODEL FOR THE AGING OF SCIENTIFIC LITERATURECollaboration uncovered: Exploring the adequacy of measuringA bibliometric study of differential item functioningConcept symbols revisited: Naming clusters by parsing and filtering ofMapping the evolution of library and information science (1978-2014)Research evolution in science parks and incubators: foundations and newTowards a European economics of economics: Monitoring a decade of topReview and analysis of publications on scientific mobility: assessmentMapping the scientific research in organic farming: a bibliometricWhich h-index? An exploration within the Web of ScienceRestructuring the Japanese national research system and its effect on"Sleeping beauty'' and her restless sleep: Charles Dotter and the birthComprehensive exploration of urban health by bibliometric analysis: 35The influence of international collaboration on the impact of researchReviewing the transport domain: an evolutionary bibliometrics andA bibliometric measure of translational scienceApplying the h-index in exploring bibliometric properties of eliteBibliometric analysis of articles published in ISI dental journals,Bibliometric indicators and the competitive environment of R&DBIBLIOMETRIC ANALYSIS OF BIBLIOGRAPHIC BEHAVIORS IN ECONOMIC SCIENCESImpact factors, scientometrics and the history of citation-basedTHE USE OF BIBLIOMETRIC INDICATORS IN THE STUDY OF INSECTICIDE RESEARCHAnticipating technological breakthroughs: Using bibliographic couplingClassifying and ranking topic terms based on a novel approach: roleBibliometric analysis of pentachlorophenol remediation methods duringMapping collaboration in international coffee certification researchA decade of research in statistics: a topic model approachFuture publication success in science is better predicted by traditionalA comparative study of Ocean Engineering research between China and theGlobal food allergy research trend: a bibliometric analysisA multidimensional extension to Hirsch's h-indexPredicting results of the Research Excellence Framework usingA bibliometric analysis of world volatile organic compounds researchExperience on research evaluation at the Joint Research Centre of theThe organizational socialization field fragmentation: a bibliometricQuantitative analysis of collaborative and mobility networksBibliometric indicators of young authors in astrophysics: Can laterFrom initial dissemination to consolidated impact: the concept of crisisMedical subject headings versus American Psychological Association IndexExploring scientific articles contributed by industries in TaiwanRanking of research output of universities on the basis of theCAN THE ASSIGNMENT OF UNIVERSITY CHAIRS BE AUTOMATEDExploring the management information systems discipline: a scientometricThe big challenge of Scientometrics 2.0: exploring the broader impact ofCan the centre-periphery model explain patterns of internationalThe evolution of conceptual diversity in economics titles from 1890 toCharacteristics of Journal Impact Factors: The effects of uncitednessGenerating process of emerging topics in the life sciencesDiseases and vector: a 10 years view of scientific literature on AedesThe impact of thenational assessment exercises on self-citation rate andScientific relatedness in solar energy: a comparative study between theIntertwining globality and locality: bibliometric analysis based on theA bibliometric analysis of research on Central Asia during 1990-2014Climate change and interdisciplinarity: a co-citation analysis of IPCCA structural analysis of publication profiles for the classification ofRetractions in the Middle East from 1999 to 2018: a bibliometricA few special cases: scientific creativity and network dynamics in theHow to evaluate individual researchers working in the natural and lifeAN INDICATOR OF CROSS-DISCIPLINARY RESEARCHEconomics in Latin America: a bibliometric analysisUsing hybrid methods and 'core documents' for the representation ofCitation structure of an emerging research area on the verge ofBibliometric study of Electronic Commerce Research in InformationUnveiling the intellectual origins of Social Media-based innovation:Discovering seminal works with marker papersFour decades of fuzzy sets theory in operations management: applicationSame data-different results? Towards a comparative approach to theTriple helix in the agricultural sector of Northeast Asian countries: aInformation science as "Little Science": The implications of aHistorical analysis of pharmacoeconomic termsScientific publication performance in post-communist countries: stillVisualizing and comparing four facets of scholarly communication:Publications from Serbia in the Science Citation Index Expanded: aCluster methods for assessing research performance: exploring SpanishAre highly cited papers more international?g(m)-index: a new mentorship index for researchersWhat makes an article influential? Predicting impact in social andMeasuring, analysis and visualization of research capacity of universityBibliometric trend analysis on global graphene researchA diachronic study of historiographyhIa: an individual annual h-index to accommodate disciplinary and careerExamining the relationship of co-authorship network centrality andBIBLIOMETRIC ANALYSIS OF PUBLICATIONS OF SPANISH PHARMACOLOGISTS IN THECharacteristics of monographic special issues in Ibero-AmericanNetwork structure, distribution and the growth of Chinese internationalCan applied science be 'good science'? Exploring the relationshipBridging citation and reference distributions: Part I - ThePredictive power of conference-related factors on citation rates ofIndependent publications from Serbia in the Science Citation IndexLandmark papers written by the Nobelists in physics from 1901 to 2012: aDisciplinary determinants of bibliometric impact in Danish industrialAssessment of world aerosol research trends by bibliometric analysisBeyond the Durfee square: Enhancing the h-index to score totalACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS) AND THE EPIDEMIC GROWTH OF ITSMeasuring knowledge transfer between fields of scienceA methodology for technology trend monitoring: the case of semanticThe effect of technology on learning research trends: a bibliometricMapping recent information behavior research: an analysis ofCollaboration patterns of Taiwanese scientific publications in variousBibliometric study of family business succession between 1939 and 2017:Can alternative indicators overcome language biases in citation counts?Evaluating technological emergence using text analytics: two caseGender gaps in scientific performance: a longitudinal matching study ofGoogle Scholar, Scopus and the Web of Science: a longitudinal andThe Scholarly Database and its utility for scientometrics researchAssessing the quality of scholarly journals in Linguistics: AnThe international visibility and citation impact of ScandinavianSCIENTIFIC PRODUCTION OF SPANISH UNIVERSITIES IN THE FIELDS OFIS TECHNOLOGY BECOMING SCIENCECollaborative interdisciplinary astrobiology research: a bibliometricVariation in research collaboration patterns across academic ranksThe transaction costs theory in international business research: aInteractions among stakeholders in the processes of city logistics: aPatent research in the field of library and information science: LessDetection method of emerging leading papers using time transitionPublication activity in complementary and alternative medicineAnalyzing the citation characteristics of books: edited books, book3 NEW PARAMETERS IN BIBLIOMETRIC RESEARCH AND THEIR APPLICATION TOSelf-defined information indices: application to the case of universityTime series-based bibliometric analysis of the dynamics of scientificCharacteristics of research on bioinformatics in China assessed withQualifying the performance evaluation of Big Science beyondThe Brazilian academic genealogy: evidence of advisor-adviseeA comparative analysis of global and national university ranking systemsDeterminants of the emergence of modern scientific knowledge inA hybrid mapping of information scienceWhat do university rankings by fields rank? Exploring discrepanciesTwo decades of "scientometrics" - An interdisciplinary field representedWhy highly cited articles are not highly tweeted? A biology caseCitation-based clustering of publications using CitNetExplorer andA bibliometric study of China's science and technology policies:National-scale research performance assessment at the individual levelReflections around 'the cautionary use' of the h-index: response toAssessing public-private research collaboration: is it possible toCitations to the "Introduction to informetrics" indexed by WOS, ScopusDo journals flipping to gold open access show an OA citation orBibliometric analysis for characterization of oil production inIs climate change controversy good for science? IPCC and contrarianKnowledge generation in the wake of the Fukushima Daiichi nuclear powerStudy of international anticancer research trends via co-word andPredicting the research performance of early career scientistsA bibliometric analysis to illustrate the role of an embedded researchHealth warning: might contain multiple personalities-the problem ofWhat is the best article publishing strategy for early careerA bibliometric analysis of industrial wastewater research: currentA distributional approach to multinationality measures of internationalField normalized citation rates, field normalized journal impact andGalton 2011 revisited: a bibliometric journey in the footprints of aAggregation properties of relative impact and other classicalExploring the scope of open innovation: a bibliometric review of aMarine shrimp fisheries research-a mismatch on spatial and thematicMapping the structure and evolution of chemistry researchFrom little things, big things grow; trends and fads in 110 years ofDesigning a Composite Index for research performance evaluation at theBias against research on gender biasA delineating procedure to retrieve relevant publication data inResearch collaboration at Nordic universitiesUsing ISI's 'Highly Cited Researchers' to obtain a country levelAntisemitism and Islamophobia: what does a bibliometric study reveal?Geographical knowledge diffusion and spatial diversity citation rankOn the map: Nature and Science editorialsBESIDES ACADEMIC PUBLICATIONS - WHICH SECTORS COMPETE, OR ARE THEREUniversity-industry R&D linkage metrics: validity and applicability inUsing archetypoid analysis to classify institutions and faculties ofHow to interpret the position of private sector institutions inNational research assessment exercises: a measure of the distortion ofPennants for Garfield: bibliometrics and document retrievalScientific collaboration in biotechnology: the case of the northeastA bibliometric analysis of research related to ocean circulationDetermining the core of journals of a research centre: The example ofDo Scopus and WoS correct "old" omitted citations?Does the citation period have any effect on the informative value ofA CHARACTERIZATION OF SCIENTOMETRIC DISTRIBUTIONS BASED ON HARMONICOn the h-index - A mathematical approach to a new measure of publicationBIBLIOMETRIC APPROACH TO RESEARCH PERFORMANCE IN THE FIELD OF REFRACTORYTwenty-first century macro-trends in the institutional fabric ofBibliometric study of the relationship between business model and airh-Type hybrid centrality measures for weighted networksRole taxonomy of green and sustainable science and technology journals:Sources of doubt: actors, forums, and language of climate changeFixed-income securities: bibliometric review with network analysisSources of atmospheric pollution: a bibliometric analysisContribution of Hacettepe University Faculty of Medicine to the world'sA multivariate analysis of publication trends in the 1980s with specialThe scientific base for orthopaedic device development in South Africa:Change in the publishing regime in Latin America: from a local toCalibrating the zoom - a test of Zitt's hypothesisCross-national distance and international business: an analysis of theThe unit of analysis (objects of study) in bibliometrics andChallenges to the validity of topic reconstructionPolitical science publications about TurkeyCharacteristics of research collaboration in biotechnology in China:A data science-based framework to categorize academic journalsA bibliometric analysis on the performance and underlying dynamicMean values of skewed distributions in the bibliometric assessment ofCitation regression analysis of computer science publications inVector-valued impact measures and generation of specific indexes forResearch productivity in education and psychology in the Philippines andSome citation-related characteristics of scientific journals publishedResilience thinking: a bibliometric analysis of socio-ecologicalJournal relatedness: An actor-actor and actor-objectives case studySorry, we're open: Golden open-access and inequality in non-humanA longitudinal study of Google Scholar coverage between 2012 and 2013National research contributions: A case study on Finnish biomedicalMODELING MULTINATIONAL PUBLICATION - DEVELOPMENT OF AN ONLINEUSE OF PUBLICATION LISTS TO STUDY SCIENTIFIC PRODUCTION AND STRATEGIESRejoinder to "Multiple versions of the h-index: cautionary use forResearch status and characteristics of library and information scienceScientific publications by anesthesia departments in East AsiaTwo new kids on the block: How do Crossref and Dimensions compare withComparison of environmental laws publications in Science Citation IndexCharacteristics of international collaboration in sport sciencesRethinking SME default prediction: a systematic literature review andThe objectivity of national research foundation peer review in SouthLITTLE SCIENTOMETRICS, BIG SCIENTOMETRICS ... AND BEYONDInternational comparative study on nanofiltration membrane technologyThe scientific production of Ibero-American authors on informationMaturity models: identifying the state-of-the-art and the scientificThe mathematical review system: does reviewer status play a role in theTracking developments in artificial intelligence research: constructingA bibliometric analysis for the research on river water qualityEU-EAEU dilemma of Armenia: Does science support politics?Why authors think their papers are highly citedUS research assessment: Recent developmentsUsing neural-network based paragraph embeddings for the calculation ofSurviving in the dispute: A bibliometric analysis of global GMF-relatedKey factors and considerations in the assessment of internationalNew quality and quantity indices in science (NewQIS): results of theEvaluating human versus machine learning performance in classifyingKnowledge flow out of the domain of information science: a bibliometricThe effects of changes in the funding structure of the FlemishNobel laureates are not hotInformetrics and the study of science-society communications: aDiscovering the interdisciplinary nature of Big Data research throughHas the Global South become a playground for Western scholars inRelationships between consumption, publication and impact in FrenchA bibliometric analysis of research papers related to the Mekong RiverA bibliometric analysis of micro/nano-bubble related research: currentAlzheimer's disease research in the future: bibliometric analysis ofA bibliometric analysis of research on proteomics in Science CitationStandardization problem of author affiliations in citation indexesOn a statistical h indexInvestigating the integrated landscape of the intellectual topology ofAge-sensitive bibliographic coupling reflecting the history of science:Source normalized indicators of citation impact: an overview ofDefining the intellectual structure of information systems and relatedReasons for and developments in international scientific collaboration:COLLABORATION IN INDIAN PHYSICS - A CASE-STUDY OF THE MACRO AND MICROTHE CONCEPT OF ENTROPY IN SCIENTOMETRICS AND INNOVATION RESEARCH - ANEfficiency and performance analysis of economics research using hesitantVisualizing the context of citations referencing papers published byMajor trends in knowledge management research: a bibliometric studyStudying grant decision-making: a linguistic analysis of review reportsA new approach to analyzing patterns of collaboration in co-authorshipInternational collaboration: Will it be keeping alive east EuropeanWho profits from the Canadian nanotechnology reward system? ImplicationsA bibliometric analysis of hydrogen energy literature, 1965-2005Research productivity of scientists in consolidated vs. non-consolidatedThe dynamics of the studies of China's science, technology andBuilding direct citation networksTechnical report: the trend of author compound names and itsSpecific character of citations in historiography (using the example ofInstitutional research rankings via bibliometric analysis and directBibliometric indicators in the context of regional repositories:Productivity, visibility, authorship, and collaboration in library andStructural and longitudinal analysis of the knowledge base on spin-offThe success-index: an alternative approach to the h-index for evaluatingA bibliometric method for assessing technological maturity: the case ofDiversified resources and academic influence: patterns ofPublication activity, citation impact and bi-directional links betweenCompetition for funding as an indicator of research competitivenessModelling and measuring multilateral co-authorship in internationalExternal research collaboration in two small science systemsConsistency index: measuring the performances of scholar journalScientific publishing in West Africa: comparing Benin with Ghana andHow the European Union writes about ophthalmologyBibliometric analysis of fracking scientific literatureCITEDNESS AND UNCITEDNESS OF CANCER ARTICLESIs science becoming more interdisciplinary? Measuring and mapping sixFunding of young scientist and scientific excellenceResearch on women in science and higher education: a bibliometricUK research assessment exercises: Informed judgments on research qualityCan scientific impact be judged prospectively? A bibliometric test ofSubject content analysis of AIDS literature, as produced in LatinProfiling citation impact: A new methodologyBibliometric analysis of complementary and alternative medicine researchGrowing scientific collaboration between Hong Kong and Mainland ChinaAnalysis of the microbial risk assessment studies from 1973 to 2015: aProgress in global parallel computing research: a bibliometric approachEcodesign field of research throughout the world: mapping the territoryStructure and evolution of innovation research in the last 60 years:The production of science in Africa: an analysis of publications in theInformation literacy in social sciences and health sciences: aA call for governments to pause Twitter censorship: using Twitter dataBibliometric indicators of Indian research collaboration patterns: AScience in Mexico: a bibliometric analysisResearch impact and productivity of Southeast Asian countries inTransdisciplinary knowledge production in mainstream journals: from theAnalysis of bibliometric indicators for individual scholars in a largeResearch collaboration in Ghana: patterns, motives and rolesA bibliometric assessment of ASEAN collaboration in plant biotechnologyProposals for evaluating the regularity of a scientist's research outputIs open access the solution to increase the impact of scientificA bibliometric analysis and comparison on three information scienceFifteen years after September 11: Where is the medical research heading?Delayed recognition of Judah Folkman's hypothesis on tumor angiogenesis:A matter of time: publication dates in Web of Science Core CollectionShould I stay or should I go? Using bibliometrics to identify theQuantifying the internationality and multidisciplinarity of authors andA bibliometric analysis of research on Antarctica during 1993-2012Factors associated with publication speed in general medical journals: aAnalysis of the ch-index: an indicator to evaluate the diffusion ofPeer review of grant applications in biology and medicine. Reliability,Global trends of solid waste research from 1997 to 2011 by usingMapping research fields using co-nomination: the case ofA boosted-trees method for name disambiguationStatistical tests for 'related records' search resultsChina and India: The two new players in the nanotechnology raceAfrican regional innovation systems: bibliometric analysis of researchSilver nanoparticles, research and development in Mexico: a bibliometricJournal clustering of library and information science for subfieldThe national system of researchers in Mexico: implications ofCharacteristics and impact of grant-funded research: a case study of theBibliometric and review of the research on circular economy through theBibliometric analysis of Egyptian publications on Hepatitis C virus fromAssessing the publication output on country level in the research field'Are principals instructional leaders yet?' A science map of theA co-citation bibliometric analysis of strategic management researchFocus on China: the current status of entrepreneurship research in ChinaIntroducing a novelty indicator for scientific research: validating theBig data and false discovery: analyses of bibliometric indicators fromTrends and performance of oxidative stress research from 1991 to 2010Challenges in the study of Cuban scientific outputScientific knowledge production and research collaboration betweenResearch performance and collaboration in the Novosibirsk regionGlobal stem cell research trend: Bibliometric analysis as a tool forResearch networks on the access of drinking water in Mexico CityAn item-by-item subject classification of papers published in journalsTechnological relevance of science: An assessment of citation linkagesIs there a gender-based fragmentation of communication science? AnTracing the indirect societal impacts of biomedical research:RETRACTED: The financial crisis research: a bibliometric analysisHow multiple networks help in creating knowledge: evidence fromA bibliometric analysis of plagiarism and self-plagiarism through DejaThe productivity of Mexican astronomers in the field of outflows fromScientific literature analysis on big data and internet of thingsOn the bibliometric coordinates of four different research fields inCharacterization, description, and considerations for the use of fundingDo age and professional rank influence the order of authorship inBenchmarking scientific performance by decomposing leadership of CubanDo they agree? Bibliometric evaluation versus informed peer review inMapping the development of Open Access in Latin America and CaribbeanMapReduce: Review and open challengesMapping the dynamics of knowledge base of innovations of R&D inInstitutional change and scientific research: A preliminary bibliometricA bibliometric study of China's semiconductor literature compared withTHE GROWTH OF BIOPHYSICAL LITERATURETowards a systematic description of the field using bibliometricMapping intellectual structures and dynamics of transport geographyBRAZILIAN PRODUCTION IN BIOCHEMISTRY - THE QUESTION OF INTERNATIONALA domain keyword analysis approach extending Term Frequency-KeywordCollaborations in communication: Authorship credit allocation via aPhases of growth in a green tech research network: a bibliometricBibliometric assessment of papers on generations in management andSample size in bibliometric analysisIndustry 4.0 technologies basic network identificationAssessing the maturity of a research area: bibliometric review andMeta-analysis on big data of bioactive compounds from mangrove ecosystemThe selection of high-quality manuscriptsScholarly research in LIS open access electronic journals: ABibliometric analysis of the Welfare TopicTHE USE OF BIBLIOMETRIC TECHNIQUES FOR INSTITUTIONAL RESEARCH EVALUATIONIntellectual contribution of Indian periodontists to world literature: aBibliometric and webometric analysis of health system reforms in LatinThe emergent dynamics of a technological research topic: the case ofRankings, research styles, and publication cultures: a study of AmericanIntellectual structure of stem cell research: a comprehensive authorCharacteristics of research in China assessed with Essential ScienceMathematics 1868-2008: a bibliometric analysisWhat happens when a journal converts to open access? A bibliometricBalassa = revealed competitive advantage = activityClassic articles on social work field in Social Science Citation Index:An evaluation of percentile measures of citation impact, and a proposalInnovativeness: a bibliometric vision of the conceptual and intellectualGlobal research trends of geographical information system from 1961 toA bibliometric analysis on rural studies in human geography and relatedState of research and future research tendencies in lean healthcare: aA deep-learning based citation count prediction model with paperThe classification of citing motivations: a meta-synthesisSouth African universities in world rankingsAnalysis of the international impact of the Brazilian baseCross-country differences in publishing productivity of academics inA bibliometric analysis of publications in computer networking researchA bibliometric analysis of solar power research from 1991 to 2010Participation of Mexican Civil Society Organizations in scientificBibliometric analysis of bioeconomy research in South AfricaGrey system theory trends from 1991 to 2018: a bibliometric analysis andAn analysis of the patenting activities and collaboration amongA systematic method to create search strategies for emergingWORLD SCIENCE IN 18 DISCIPLINARY AREAS - COMPARATIVE-EVALUATION OF THECOVID-19 enabled co-authoring networks: a country-case analysisComprehensive evaluation of h-index and its extensions in the domain ofNanoscience and nanotechnology research publications: a comparisonBibliometrics as a tool for measuring gender-specific researchScientific impact of an author and role of self-citationsContextualization of topics: browsing through the universe ofQuantitative study on Australian academic scienceA bibliometric analysis of Technology CentresAnalysis of journal evaluation indicators: an experimental study basedOpen access in ethics research: an analysis of open access availabilityMapping of diseases from clinical medicine research-a visualizationExpansion of scientific journal categories using reference analysis: HowA bibliometric study of the publication patterns in the sciences ofResearchers' attitudes towards the h-index on Twitter 2007-2020:Comparative study on structure and correlation among authorHow is credit given to networking centres in their publications? A caseRTRS: a recommender system for academic researchersMeasuring regional science networks in China: a comparison ofA citation analysis of Iranian journals to open access (OA) articles andNeurosciences in Brazil: a bibliometric study of main characteristics,A NEW APPROACH TO DEFINING A MULTIDISCIPLINARY FIELD OF SCIENCE - THETypes of evidence cited in Australian Government publicationsImpact of country self-citations on bibliometric indicators and rankingInterdisciplinary relations of converging technologies:Large-scale assessment of research outputs through a weightedRelative age of references as a tool to identify emerging researchEvolution of the publications in clinical neurology: scientific impactA historical review and bibliometric analysis of GPS research fromScientific output and its relationship to knowledge economy: an analysisGlobal trends in sediment-related research in earth science duringCharting the Open Access scholarly journals landscape in the UAEBibliometric analysis of research progress in membrane water treatmentComparative analysis of health public policy research results amongSCIENTIFIC COOPERATION IN EUROPE AND THE CITATION OF MULTINATIONALLYResponse to Dr. Copiello's comments on "The impact of video abstract onLatin American scientific output in Public Health: combined analysisGlobal trends in DEM-related research from 1994 to 2013: a bibliometricInternational collaboration in LIS: global trends and networks at theiMetrics: the development of the discipline with many namesCardiovascular disease research in Saudi Arabia: a bibliometric analysisScientific collaboration of Cuban researchers working in Europe:A bibliometric portrait of the evolution, scientific roots and influenceMore than meets the eye: traditions, nucleus and peripheries of theA quantitative examination of the intellectual profile and evolution ofQuantitative analysis of automatic performance evaluation systems basedThe coverage of Microsoft Academic: analyzing the publication output ofInvestigation of the degree to which articles supported by researchReflection of cross-disciplinary research at Creative ResearchGlobal performance of traditional Chinese medicine over three decadesResearch on political instability, uncertainty and risk duringScientific output of the emerging Cuban biopharmaceutical industry: aJournal impact measures in bibliometric researchAn intersectional approach to analyse gender productivity and openA scientometric analysis of reproductive medicineWhat characterises funded biomedical research? Evidence from a basic andComparison of medical research performance by thermodynamic and citationChronic anthropogenic disturbances in ecology: a bibliometric approachScientific potential of European fully open access journalsMapping the research history, collaborations and trends of remoteCore journals and elite subsets in scientometricsA bibliometric study of human-computer interaction research activity inThe Pinski-Narin influence weight and the RamanujacharyuluMicrosoft Academic: is the phoenix getting wings?Which early works are cited most frequently in climate change researchApplied physics in Mexico: mining the past to predict the futureRelating research growth, authorship patterns and publishing outlets: aScientometric analysis of phosphorus research in eutrophic lakesBonded-communities in HantaVirus research: a research collaborationAcceleration of citing behavior after the millennium? ExemplaryAre there global shifts in the world science base? Analysing theDo open access journal articles experience a citation advantage? ResultsFrom cut-points to key players in co-authorship networks: a case studyScientific production and citation impact: a bibliometric analysis inExploring a prototype framework of web-based and peer-reviewed "EuropeanNitrogen research at watershed scale: a bibliometric analysis duringGender disparity in research productivity across departments in theAssessing the publication impact using citation data from both ScopusParticipation of 'international national organisations' in Africa'sDisciplinarity and interdisciplinarity in citation and referenceCan social media usage of scientific literature predict journal indicesCollaboration network and pattern analysis: case study of dye-sensitizedGaining scientific recognition by position: Does editorship increaseLife sciences research in VenezuelaExploring the bibliometric and semantic nature of negative resultsThe journal coverage of Web of Science, Scopus and Dimensions: AOpenness trends in Brazilian citation data: factors related to the useFunding acknowledgement analysis: an enhanced tool to investigateEarly insights on the Emerging Sources Citation Index (ESCI): an overlayMapping the research on aquaculture. A bibliometric analysis ofBibliometric analysis of homeopathy research during the period of 1991Analysis of publications on sturgeon research between 1996 and 2010Research in non-metropolitan universities as a new stage of scienceTowards the automation of address identificationHow scientific research reacts to international public healthEarly citation counts correlate with accumulated impactResearch trend of metal-organic frameworks: a bibliometric analysisTop journals selectivity index and "me-too" drugsThe changing dynamics in citation index publication position China in aA surname-based bibliometric indicator: publications in biomedicalAnalysis of the evolution and collaboration networks of citizen scienceDoes the Scopus author ID suffice to track scientific internationalSouth African research in selected scientific areas: Status 1981-2000Research performance and trends in child sexual abuse research: aSelection of research fellowship recipients by committee peer review.Scientometric analysis and dimensions on international businessRelativity of citation performance and excellence measures: FromEvaluation of accounting journals by coverage of accounting topics inEvaluation of publications by the part-set methodTop Journals Selectivity Index: is it acceptable for drugs beyond theAn overview of the Web of Science record of scientific publicationsThe influence of academic advisors on academic network of PhysicsCHARACTERISTICS OF THE PUBLISHING INFRASTRUCTURE OF PERIPHERAL COUNTRIESTHE GROWTH OF KNOWLEDGE AND LITERATURE IN NEUROSCIENCEFirst systematic review on PM-bound water: exploring the existingMapping and clustering analysis on neuroscience literature in Turkey: a
+The need for standards in bibliometric research and technology
+THE NEURAL NET OF NEURAL NETWORK RESEARCH - AN EXERCISE IN BIBLIOMETRIC
+Software survey: VOSviewer, a computer program for bibliometric mapping
+Fatal attraction: Conceptual and methodological problems in the ranking
+RESEARCH OUTPUT EVALUATION OF 2 UNIVERSITY DEPARTMENTS IN GREECE WITH
+Bibliometrics-aided retrieval: where information retrieval meets
+Using Bayesian networks to discover relationships between bibliometric
+The bibliometric analysis of scholarly production: How great is the
+SOME OBSERVATIONS ON THE USE OF BIBLIOMETRIC INDICATORS IN THE
+Quality of research: which underlying values?
+Systematic analysis of coverage and usage of conference proceedings in
+The j-index: a new bibliometric index and multivariate comparisons
+National research assessment exercises: a comparison of peer review and
+The application of bibliometric analysis: disciplinary and user aspects
+Bibliometric analysis of biotechnology
+Applying bibliometric mapping in a high level science policy context
+Advanced bibliometric methods as quantitative core of peer review based
+Response to Chuang and Ho's comments on "a bibliometric study of the
+Research strengths identified by esteem and bibliometric indicators: a
+Bibliometric analysis of corporate governance research in
+Mapping computer science research in Africa: using academic networking
+European research policy and bibliometric indicators, 1990-2005
+Combining concept maps and bibliometric maps: First explorations
+Institutional h-index: The performance of a new metric in the evaluation
+Measuring knowledge flows between countries: The use of scientific
+Evidence base, quantitation and collaboration: three novel indices for
+Early recognition of high quality researchers of the German psychiatry
+Differences in the construction of SCI based bibliometric indicators
+Automated Research Impact Assessment: a new bibliometrics approach
+A cautionary bibliometric tale of two cities
+Business cycles in the economy and in economics: an econometric analysis
+Classifications of science and their effects on bibliometric evaluations
+Forecasting trends of development of psychology from a bibliometric
+Nanotechnology - Interdisciplinarity, patterns of collaboration and
+Bibliometric output from Colombian researchers with approved projects by
+The troubles of high-profile open access megajournals
+A bibliometric approach to tracking international scientific migration
+An impact-citations-exergy (iCX) trajectory analysis of leading research
+Science macro-indicators: Some aspects of OST experience
+Measuring impact by a full option method and the notion of bibliometric
+Reverse-engineering conference rankings: what does it take to make a
+Correcting glasses help fair comparisons in international science
+The cognitive structure of current cardiovascular research
+An analysis of bibliometric indicators to JCR according to Benford's law
+Are bibliometric measures consistent with scientists' perceptions? The
+A review of the characteristics of 108 author-level bibliometric
+NEW BIBLIOMETRIC TOOLS FOR THE ASSESSMENT OF NATIONAL RESEARCH
+Mimicry in science?
+The journal coverage of Web of Science and Scopus: a comparative
+Which role do non-source items play in the social sciences? A case study
+Ten challenges in modeling bibliographic data for bibliometric analysis
+Bibliometric positioning of scientific manufacturing journals: a
+Meso-level retrieval: IR-bibliometrics interplay and hybrid
+The effect of database dirty data on h-index calculation
+Development of a semi-automatic bibliometric system for publications on
+A flexible bibliometric approach for the assessment of professorial
+Harmonic publication and citation counting: sharing authorship credit
+50 years of space research in Europe: a bibliometric profile of the
+The influence of author self-citations on bibliometric meso-indicators.
+A bibliometric analysis of NOAA's Office of Ocean Exploration and
+The ''mad cow disease'', Usenet newsgroups and bibliometric laws
+Severe language effect in university rankings: particularly Germany and
+Which can better predict the future success of articles? Bibliometric
+Does co-authorship inflate the share of self-citations?
+The evaluation of university departments and their scientists: Some
+Open access initiatives in European universities: analysis of their
+Normalizing Google Scholar data for use in research evaluation
+Testing bibliometric indicators by their prediction of scientists
+Two citation-based indicators to measure latent referential value of
+How do NIHR peer review panels use bibliometric information to support
+Measuring institutional research productivity for the life sciences: the
+Does the average JIF percentile make a difference?
+Twenty-five years of Australian nursing and allied health professional
+ASSESSING MULTIDISCIPLINARY AREAS OF SCIENCE AND TECHNOLOGY - A
+Publications and patents in nanotechnology - An overview of previous
+Co-word analysis and thematic landscapes in Spanish information science
+A new bibliometric approach to measure knowledge transfer of
+Validating indicators of interdisciplinarity: linking bibliometric
+The Energy-Exergy-Entropy (or EEE) sequences in bibliometric assessment
+A COMPARATIVE-STUDY OF BIBLIOMETRIC PAST PERFORMANCE ANALYSIS AND PEER
+Bibliometric analysis for development of research strategies in
+Business portfolio restructuring: a comprehensive bibliometric review
+Analysis of publication patterns in Korean library and information
+Bibliometric analysis of physics in Catalonia: Towards quality
+HCR for assessment of scientific journals in chemistry
+Methodological and conceptual questions of bibliometric standards
+APPLIED VERSUS BASIC SCIENCE IN THE LITERATURE OF PLANT BIOLOGY - A
+Bibliometric analysis - A new business area for information
+Missing documents in Scopus: the case of the journalEnfermeria
+Studying the international diffusion of a national scientific journal
+Impact measures of interdisciplinary research in physics
+How cross-disciplinary is bionanotechnology? Explorations in the
+Research on Covid-19: a disruptive phenomenon for bibliometrics
+Building the genealogy of family business internationalization: a
+Four aspects of the institutionalization of physics research in India
+A BIBLIOMETRIC STUDY OF THE PUBLICATIONS OF THE
+Studying research collaboration using co-authorships
+The research trends forecasted by bibliometric methodology: a case study
+CANADIAN RESEARCH ACTIVITY IN AQUACULTURE - A BIBLIOMETRIC ANALYSIS
+Bibliometric indicators in the study of Asperger syndrome between 1990
+Blockmodeling of co-authorship networks in library and information
+Is the promotion of research reflected in bibliometric data? A network
+Influence of omitted citations on the bibliometric statistics of the
+RESEARCH PERFORMANCE INDICATORS FOR UNIVERSITY DEPARTMENTS - A STUDY OF
+THE APPLICATION OF BIBLIOMETRIC INDICATORS - IMPORTANT FIELD-DEPENDENT
+An empirical approach to compare the performance of heterogeneous
+How to identify research groups using publication analysis: an example
+Toward a stochastically robust normalized impact factor against fraud
+Count highly-cited papers instead of papers with h citations: use
+Three new bibliometric indicators/approaches derived from keyword
+Errors in DOI indexing by bibliometric databases
+Google Scholar Metrics evolution: an analysis according to languages
+Socio-bibliometric mapping of intra-departmental networks
+Analysis of the Spanish scientific and technological output in the ICT
+The difficulty of achieving full coverage of international social
+Socio-economic effects of the material science in JAERI
+A bibliometric study of psychological research on tourism
+Comprehensive metrological and content analysis of the public-private
+A SCIENTOMETRIC COGNITIVE STUDY OF NEURAL-NETWORK RESEARCH - EXPERT
+The application of bibliometric analyses in the evaluation of social
+Using a bibliometric approach to support research policy making: The
+The story behind Oncotarget? A bibliometric analysis
+Bibliometric characteristics of the journal Science: Pre-Koshland,
+Bibliometric analysis in motorcycle accident research: a global overview
+An overview of iris recognition: a bibliometric analysis of the period
+Coping with the problem of subject classification diversity
+Using Monte Carlo simulations to assess the impact of author name
+An impact indicator for researchers
+A multivariate stochastic model to assess research performance
+Constructing a new patent bibliometric performance measure by using
+A bibliometric tale of two cities: Hong Kong and Singapore
+Bibliometric characteristics of highly cited papers from Taiwan,
+ASSESSMENT OF THE INTERNATIONAL STANDING OF UNIVERSITY DEPARTMENTS
+On the analogy between the evolution of thermodynamic and bibliometric
+The rise of "blockchain": bibliometric analysis of blockchain study
+Unravelling the scientific research on grape and wine phenolic
+The "Mendel syndrome" in science: durability of scientific literature
+The unification of institutional addresses applying parametrized
+Methodological quality in clinical trials and bibliometric indicators:
+Tracking researchers and their outputs: new insights from ORCIDs
+Capturing new developments in an emerging technology: an updated search
+Software survey: ScientoPy, a scientometric tool for topics trend
+Bibliometric performance measures
+Improving the functionality of interactive bibliometric science maps
+Sectoral collaboration in biomedical research and development
+Metrics to evaluate research performance in academic institutions: a
+How to combine term clumping and technology roadmapping for newly
+Applications for bibliometric research in the emerging digital libraries
+Holy Grail of science policy: Exploring and combining bibliometric tools
+Bibliometric analysis on the association between behavioral finance and
+A bibliometric study of research activity in ASEAN related to the EU in
+Modeling uncertainty in bibliometrics and information retrieval: an
+Online classified advertising: a review and bibliometric analysis
+Are peer-review activities related to reviewer bibliometric performance?
+Transition to postmodern science-related scientometric data
+Measuring changes in publication patterns in a context of
+Are you in top 1% (1 parts per thousand)?
+Central indexes to the citation distribution: a complement to the
+Commonalities and differences between scholarly and technical
+Bibliometric spectroscopy of Russia's nanotechnology: 2000-2014
+The research activity of the current faculty of the Greek chemical
+Use of ResearchGate and Google CSE for author name disambiguation
+The impact of impact factor on small specialties: A case study of family
+Scientometric perspectives of the analysis of chemical terminology
+The information value of early career productivity in mathematics: a ROC
+The fractal dimension of a citation curve: quantifying an individual's
+Mapping the literature on credit unions: a bibliometric investigation
+Multiparametric characterization of scientometric performance profiles
+Inspecting the Achilles heel: a quantitative analysis of 50 years of
+Citation patterns in the Kuwaiti journal Medical Principles and
+Commemorating Judit Bar-Ilan from bibliometric and altmetric
+A BIBLIOMETRIC PROFILE OF TOP-SCIENTISTS - A CASE-STUDY IN
+Scientific production on mobile information literacy in higher
+Comparative analysis of some individual bibliometric indices when
+Impact assessment of a support programme of science-based emerging
+Internationality at university level
+Topical connections between the institutions within an organisation
+The evolution of data science and big data research: A bibliometric
+Which differences can be expected when two universities in the Leiden
+A BIBLIOMETRIC ANALYSIS OF COLLABORATION IN A MEDICAL SPECIALTY
+Standardizing formats of corporate source data
+Measuring the impact of scientific publications. The case of the
+Properties of journal impact in relation to bibliometric research group
+Scientific collaboration in Library and Information Science viewed
+Ratio of short term and long term impact factors and similarities of
+The global science base of information and communication technologies:
+Neuroscience output of China: A MEDLINE-based bibliometric study
+The role of domestic journals in geographically-oriented disciplines:
+Desktop scientometrics
+Comparison of the Hirsch-index with standard bibliometric indicators and
+What is special about patent citations? Differences between scientific
+THE EVALUATION OF PLANT BIOMASS RESEARCH - A CASE-STUDY OF THE PROBLEMS
+Opinion paper: thoughts and facts on bibliometric indicators
+Better late than never? On the chance to become highly cited only beyond
+Leadership of the present, current theories of multiple involvements: a
+Publication trends and co-citation mapping of translation studies
+Impact of bibliometric studies on the publication behaviour of authors
+Bibliometric analysis and private research funding
+Career advancement and scientific performance in universities
+What is co-authorship?
+Some new tests of relevance theory in information science
+Impact of bibliometrics upon the science system: Inadvertent
+Bibliometric standards: Personal experience and lessons learned
+Visibility of collaboration on the Web
+A BIBLIOTHECONOMIC ANALYSIS OF THE IMPACT FACTORS OF SCIENTIFIC
+Biotechnology profile analysis in Colombia
+Large-scale bibliometric review of diffusion research
+Conference proceedings as a matter of bibliometric studies: the Academy
+Inflationary bibliometric values: The role of scientific collaboration
+Lack of standardisation in informetric research. Comments on "Power laws
+Filling the citation gap: measuring the multidimensional impact of the
+Professional and citizen bibliometrics: complementarities and
+Graph-based algorithms for ranking researchers: not all swans are white!
+ON THE SIGNIFICANCE OF DATA-BASES KEYWORDS FOR A LARGE-SCALE
+Bibliometric analysis of diadromous fish research from 1970s to 2010: a
+Opening the black box of academic entrepreneurship: a bibliometric
+Why it has become more difficult to predict Nobel Prize winners: a
+BRADFORD LAW AND THE RELATIONSHIP BETWEEN ECOLOGY AND BIOGEOGRAPHY
+Measuring multidisciplinary health research at South African
+Diversity and network coherence as indicators of interdisciplinarity:
+Comparison and evaluation of Chinese research performance in the field
+Gender gap in medical research: a bibliometric study in Swiss university
+Bibliometric analysis to identify an emerging research area: Public
+GOVERNMENT-FUNDED ACADEMIC SCIENCE IS A CONSUMER GOOD, NOT A PRODUCER
+A comparative study on world university rankings: a bibliometric survey
+Studying scientific migration in Scopus
+Policy change analysis based on "policy target-policy instrument"
+The scientific specialisation of the Italian regions
+Multivariate analysis of credit risk and bankruptcy research data: a
+Universality of performance indicators based on citation and reference
+Synthesizing scientometric patterns in Spanish educational research
+Science in Brazil. Part 2: Sectoral and institutional research profiles
+How latecomers catch up to leaders in high-energy physics as Big
+Interfaces between production engineering and the public affairs:
+Meta-analysis in psychology: a bibliometric study
+A DUAL REFINEMENT OF JOURNAL SELF-CITATION MEASURES
+A bibliometric analysis of international scientific cooperation of the
+Longitudinal patterns in Spanish doctoral theses on scientific medical
+Evolving importance of anticancer research using herbal medicine: a
+Co-author inclusion: A novel recursive algorithmic method for dealing
+A look back over the past 40 years of female entrepreneurship: mapping
+Microsoft Academic (Search): a Phoenix arisen from the ashes?
+Tracking the emergence of synthetic biology
+The fractional and harmonic p-indices for multiple authorship
+Characterisation of the chi-index and the rec-index
+A comparison of Scopus and Web of Science for a typical university
+ECCLESIASTES EFFECTS
+Rethinking bibliometric data concerning gender studies: a response to
+Environmental sciences research in northern Australia, 2000-2011: a
+Mapping interdisciplinary research fronts in neuroscience: A
+International versus national oriented Brazilian scientific journals. A
+PARTIAL ASSESSMENT OF MEXICAN HEALTH-SCIENCES RESEARCH 1982-1986
+The trench warfare of gender discrimination: evidence from academic
+Bibliometric studies outside the information science and library science
+Disciplinary dimensions and social relevance in the scientific
+Bibliometric study on food science and technology: Scientific production
+A bibliometric analysis of the Turkish software engineering research
+Bibliometric analysis for the literature of traditional Chinese medicine
+Analysis of the Czech and Hungarian physiology publications 1994-2011
+Bibliometric analysis of the journal literature on women's studies
+A concise review on the role of author self-citations in information
+Facebook in educational research: a bibliometric analysis
+Obsolescence of literature in the field of psychology
+Intellectual activities and influences of Belver C. Griffith: A citation
+THE ORTEGA HYPOTHESIS, INDIVIDUAL-DIFFERENCES, AND CUMULATIVE ADVANTAGE
+Tracing the knowledge-building dynamics in new stem cell technologies
+Trends in Russian research output in post-Soviet era
+Bibliometric analysis of two subdomains in philosophy: free will and
+Studying the characteristics of scientific communities using
+Publication and citation patterns of the Mexican contribution to a "Big
+Evaluation activities in the Nordic countries
+Cardiovascular research in Spain. A comparative scientometric study
+Does the Financial Times FT50 journal list select the best management
+Tracking self-citations in academic publishing
+Depicting communities of Romani studies: on the who, when and where of
+Validation of bibliometric indicators in the field of microbiology: A
+Bibliometric analysis of severe acute respiratory syndrome-related
+Computer models for identifying instrumental citations in the biomedical
+Scientific research collaboration in China
+The strength of strong ties: How co-authorship affect productivity of
+A new approach to the analysis and evaluation of the research output of
+A dense network sub-grouping algorithm for co-citation analysis and its
+Validation of bibliometric indicators in the field of mathematics
+Citation analysis with microsoft academic
+Rehabilitation using virtual reality technology: a bibliometric
+Measuring international knowledge flows and scholarly impact of
+A comparative analysis of publication activity and citation impact based
+Social network analytics for advanced bibliometrics: referring to actor
+A research framework to explore knowledge evolution and scholarly
+An axiomatic characterization of the ranking based on the h-index and
+Between policy categories and research activities: Reviews and journals
+Evaluation of Brazilian research output in education: confronting
+Bibliometrics evaluation of research performance in
+Global liposome research in the period of 1995-2014: a bibliometric
+A bibliometric study of the world's research activity in sustainable
+An advanced diffusion model to identify emergent research issues: the
+Lean in information technology departments or companies: identifying
+Does an expert-based evaluation allow us to go beyond the Impact Factor?
+Global analysis of the E-learning scientific domain: a declining
+Assessing the effects of the German Excellence Initiative with
+An item-by-item subject classification of papers published in
+An algorithmic historiography of the Ebola research specialty: mapping
+Detecting the knowledge structure of bioinformatics by mining full-text
+A BIBLIOMETRIC STUDY ON MEDICINE CHINESE TRADITIONAL IN MEDLINE DATABASE
+Experimental evaluation of parameter settings in calculation of hybrid
+Introducing sub-impact factor (SIF-) sequences and an aggregated
+Research productivity: Are higher academic ranks more productive than
+BIBLIOMETRIC EVALUATION OF AGRICULTURAL LITERATURE PUBLISHED IN MALAYSIA
+A PROFILE OF CANADIAN COAL AND PETROLEUM RESEARCH COMMUNITIES
+Knowledge linked to museum specimen vouchers: measuring scientific
+Bibliometric analysis of tsunami research
+Ages of cited references and growth of scientific knowledge: an
+Percentile and stochastic-based approach to the comparison of the number
+Explaining the transatlantic gap in research excellence
+Effect of high energy physics large collaborations on higher education
+Use of citation per publication as an indicator to evaluate
+Reflection of co-authorship networks in the Web: Web hyperlinks versus
+International scientific collaboration of China with the G7 countries
+Rescher's principle of decreasing marginal returns of scientific
+Bibliometric indicators reflect publication and management strategies
+INTERNATIONAL SCIENTIFIC COLLABORATION IN ARAB COUNTRIES
+A note on using revealed comparative advantages in scientometrics
+Citation-based metrics are appropriate tools in journal assessment
+GROWTH OF LECTIN LITERATURE - 1954-1982
+DEVELOPMENT OF A METHOD FOR DETECTION AND TREND ANALYSIS OF RESEARCH
+A bibliometric study of bioinformatics research in South Africa
+A bibliometric study of semiconductor literature, 1978-1997
+Women, peace and security state-of-art: a bibliometric analysis in
+Measuring China's research performance using the Science Citation Index
+Does cumulative advantage affect collective learning in science? An
+'Triad' or 'tetrad'? On global changes in a dynamic world
+University-industry linkages' literature on Sub-Saharan Africa:
+Opportunities and challenges of interbasin water transfers: a literature
+EU27 and USA leadership in fruit and vegetable research: a bibliometric
+The emerging dynamic structure of national innovation studies: a
+Evaluating the research performance of the Greek medical schools using
+Bibliometric analysis of patent ductus arteriosus treatments
+USING BIBLIOMETRICS IN STRATEGIC ANALYSIS - UNDERSTANDING
+Plots for visualizing paper impact and journal impact of single
+THE SCIENTIFIC OUTPUT OF THE ECS LESS FAVORED REGIONS
+A comparison of 17 author-level bibliometric indicators for researchers
+On bibliometrics in academic promotions: a case study in computer
+Examining how country-level science policy shapes publication patterns:
+Research characteristics and status on social media in China: A
+Proceedings literature as additional data source for bibliometric
+Cuban scientific articles in ISI citation indexes and CubaCiencias
+BIBLIOMETRIC CARTOGRAPHY OF SCIENTIFIC AND TECHNOLOGICAL DEVELOPMENTS OF
+Mapping scientific institutions
+Hierarchical linear models in psychiatry: A bibliometric study
+Organizational factors influencing scholarly performance: a multivariate
+The measurement of Italian universities' research productivity by a non
+Bibliometric evaluation of the research performance of the Greek civil
+Publication in 6 rehabilitation professions: a five-year
+The transtheoretical model and obesity: A bibliometric study
+URAP-TR: a national ranking for Turkish universities based on academic
+On chaos in bibliometric terminology
+Profile of the Mexican health sciences elite: A bibliometric analysis of
+Why are we so attached to the "ethno" prefix in Brazil?
+Visualizing the GVC research: a co-occurrence network based bibliometric
+The life span of a specific topic on the Web - The case of
+Slow reception and under-citedness in climate change research: A case
+Data integration in Scandinavia
+Bibliometric analysis of biological invasions research during the period
+Research quality and diversity of funding: A model for relating research
+Overlaying communities and topics: an analysis on publication networks
+Do simultaneous inventions sleep? A case study on nursing sleeping
+Collecting large-scale publication data at the level of individual
+Full-text publications in peer-reviewed journals derived from
+Bibliometric study of bioinformatics literature
+A scientometrics law about co-authors and their ranking: the co-author
+A longitudinal study of intellectual cohesion in digital humanities
+An approach to interdisciplinarity bibliometric indicators
+Experiences with the national citation reports database for measuring
+What is the difference in global research on Central Asia before and
+Some thoughts on the interaction between scientometrics and science and
+Comparison of research team activity in two biomedical fields
+AN OVERVIEW OF MORAVCSIK,MIKE PUBLICATION ACTIVITY IN PHYSICS
+Indicators for the dynamics of research organizations: a biomedical case
+A three-dimensional bibliometric evaluation of research in polymer solar
+A structural analysis of benchmarks on different bibliometrical
+Bibliometric fingerprints: name disambiguation based on approximate
+Identification and characterisation of technological topics in the field
+Knowledge network hubs and measures of research impact, science
+On measuring scholarly influence by citations
+Estimate of global research trends and performance in family therapy in
+Mapping the state of the art of ergonomics within logistics
+Is Google Scholar useful for bibliometrics? A webometric analysis
+Bibliometric analysis of AIDS literature in Latin America and the
+Research landscape of the BRICS countries: current trends in research
+Language trends in nanoscience and technology: The case of
+The internationalization of Chinese scientific journals: A quantitative
+Assessing researcher interdisciplinarity: a case study of the University
+Scientometrics as a tool for analysis of the industrial relationships of
+35 years and 160,000 articles: A bibliometric exploration of the
+Authorship trends in software engineering
+Coverage of highly-cited documents in Google Scholar, Web of Science,
+Scientometrics of peer review
+The level of research in advanced composite materials in the countries
+Bibliometric monitoring of research performance in the social sciences
+How hot are hot papers? The issue of prolificacy and self-citation
+Study the brain drain: Can bibliometric methods help?
+Scientific Quality Index: a composite size-independent metric compared
+Bibliometric analysis of the Czech research publications from 1994 to
+Increasing discrepancy between absolute and effective indexes of
+Assessing stem cell research productivity
+Evaluating research: from informed peer review to bibliometrics
+The role of Chinese-American scientists in China-US scientific
+Mapping of R&D structures in transdisciplinary areas: New biotechnology
+Influence of the international collaboration in the field of metric
+An analysis of document types published in journals related to physics:
+Evaluating the academic trend of RFID technology based on SCI and SSCI
+Interdisciplinary information input and output of a nano-technology
+National research profiles in a changing Europe (1983-2003) - An
+Contribution of Turkish researchers to the world's biomedical literature
+Comprehensive indicator comparisons intelligible to non-experts: the
+A bibliometric profile of Flemish research in natural, life and
+Entrepreneurial cognition and socially situated approach: a systematic
+THE RECEPTION OF POLISH PHILOLOGY ABROAD
+Organizational ambidexterity: exploring the knowledge base
+A two-dimensional bibliometric index reflecting both quality and
+Analyzing knowledge entities about COVID-19 using entitymetrics
+How well developed are altmetrics? A cross-disciplinary analysis of the
+How does scientific success relate to individual and organizational
+Evaluation and interpretation of knowledge production efficiency
+Web of Science and Scopus language coverage
+Publication attributes of leadership: what do they mean?
+A bibliometric tool to assess the regional dimension of
+Visualizing the studies on smart cities in the past two decades: a
+International scientific collaboration of China: collaborating
+Is correspondence reflected in the author position? A bibliometric study
+Scientific production and collaboration in Epidemiology and Public
+Understanding the relevance of national culture in international
+Are the h-index and some of its alternatives discriminatory of
+The Journal's Integrated Impact Index: a new indicator for journal
+Measuring the use of public research in firm R&D in the Hsinchu Science
+R&D dynamics and scientific breakthroughs in HIV/AIDS drugs development:
+Indicators of failed information epidemics in the scientific journal
+A national-scale cross-time analysis of university research performance
+The publication and citation output of German Faculties of Economics and
+The effect of team consolidation on research collaboration and
+Tracking techno-science networks: A case study of fuel cells and related
+Local, domestic and international scientific collaboration in biomedical
+What do UK academics cite? An analysis of references cited in UK
+An iCE map approach to evaluate performance and efficiency of scientific
+How much is a collaboration worth? A calibrated bibliometric model
+DEVELOPMENT OF BIBLIOMETRIC INDICATORS FOR UTILITY OF RESEARCH TO USERS
+Scope, characteristics, and use of the U.S. Department of Agriculture's
+Specialization versus diversification in research activities: the
+The field-standardized average impact of national research systems
+A collective and abridged lexical query for delineation of
+Embedded information structures and functions of co-authorship networks:
+A snapshot of EU publications in sleep research: A scientometric survey
+Combining full-text analysis and bibliometric indicators. A pilot study
+Language biases in the coverage of the Science Citation Index and its
+Twenty years of statistical learning: from language, back to machine
+The unified scientometric model. Fractality and transfractality
+Tracing the role of individual journals in a cross-citation network
+The quality-quantity-quasity and energy-exergy-entropy exegesis of
+Bibliometric laws: Empirical flaws of fit
+Destructive leadership in organizational research: a bibliometric
+Web 2.0 and its dimensions in the scholarly world
+The global institutionalization of nanotechnology research: A
+Inaccuracies in titles on bibliometrics in biomedical journals
+Creative accomplishments in science: definition, theoretical
+A comparison of bibliometric indicators for computer science scholars
+Third party funding of German universities. An indicator of research
+An analysis of editorial board members' publication output in
+Deconstructing doctoral dissertations: how many papers does it take to
+The "space of physics journals": topological structure and the Journal
+Research hotspots and current challenges of lakes and reservoirs: a
+A geostatistical analysis of geostatistics
+BIBLIOGRAPHICAL CARTOGRAPHY OF AN EMERGING INTERDISCIPLINARY DISCIPLINE
+The correlation between paper length and citations: a meta-analysis
+An exploratory study on collaboration profiles of Chinese publications
+Predicting long-run citation counts for articles in top economics
+Research trends analysis by comparing data mining and customer
+China-US scientific collaboration in nanotechnology: patterns and
+Development and application of journal impact measures in the Dutch
+Emergence of modern scientific discourse in the American continent:
+Researchers' risk-smoothing publication strategies: Is productivity the
+Golden-ratio as a substitute to geometric and harmonic counting to
+Research status and trends in limnology journals: a bibliometric
+A bibliometric analysis of the Scielo database: a Brazilian portfolio of
+An interdisciplinary and systems-based evaluation of academic programs:
+James Bond and citations to his books
+Bibliometric mapping of science in a science policy context
+Quantitative evaluation of the production and trends in research
+Citation analysis of cuban research. Part 1. A case study: the Cuban
+Persistent nepotism in peer-review
+Ten years Matthew effect for countries
+Nanobiotechnology as an emerging research domain from nanotechnology: A
+A bibliometric analysis of waste management research during the period
+Evaluating the performance of electromagnetic fields (EMF) research work
+A ranking of universities should account for differences in their
+Investigation of collaborative research trends in Indian medical
+Propaganda as a research field: a bibliometric study
+Networks of knowledge: The distributed nature of medical innovation
+Iran's scientific dominance and the emergence of South-East Asian
+A bibliometric review of research on international student mobilities in
+The suitability of h and g indexes for measuring the research
+Assessing the knowledge base for biotechnology in South Africa - A
+Interdisciplinarity and the intellectual base of literature studies:
+Document categories in the ISI Web of Knowledge: Misunderstanding the
+Using content-based and bibliometric features for machine learning
+A bibliometric methodology to unveil territorial inequities in the
+Recent internationalization of global environmental change research in
+A bibliometric analysis of research on upflow anaerobic sludge blanket
+Patterns of author cogitation in information policy: Evidence of social,
+National and international university departmental Web site
+SPECIALIZATION AND SIZE OF SCIENTIFIC ACTIVITIES - A BIBLIOMETRIC
+Atapuerca: evolution of scientific collaboration in an emergent
+How is an academic social site populated? A demographic study of Google
+How much do different ways of calculating percentiles influence the
+Gender differences in research productivity: A bibliometric analysis of
+Policy impact of bibliometric rankings of research performance of
+Global trends in scientific production in enology and viticulture in
+The weight of author self-citations. A fractional approach to
+WERE HAS THE CUMULATIVE ADVANTAGE GONE - SOME OBSERVATIONS ABOUT THE
+A simple back-of-the-envelope test for self-citations using Google
+Feature report on China: a bibliometric analysis of China-related
+A variation of the calculation of the first author cocitation strength
+Alphabetic order of authors in scholarly publications: a bibliometric
+An outcome of nuclear safety research in JAERI: case study for LOCA
+The dynamic capabilities perspective of strategic management: a
+Somes patterns of Cuban scientific publication in Scopus: the current
+Geographical distance in bibliometric relations within epistemic
+Measuring the influence of clinical trials citations on several
+APPLES AND ORANGES - THE AGGREGATION PROBLEM IN PUBLICATIONS ANALYSIS
+A made-to-measure indicator for cross-disciplinary bibliometric ranking
+Rural informatization policy evolution in China: a bibliometric study
+Semantic fingerprints-based author name disambiguation in Chinese
+USE OF BIBLIOGRAPHIC DATABASES FOR SCIENTOMETRIC STUDIES
+Correlations between bibliometrics and peer evaluation for all
+'Seed plus expand': a general methodology for detecting publication
+A comparison of disciplinary structure in science between the G7 and the
+The role of editorial material in bibliometric research performance
+A bibliometric study of earthquake research: 1900-2010
+A compendium of issues for citation analysis
+DOES IT PAY TO COOPERATE - A BIBLIOMETRIC CASE-STUDY IN
+IS SCIENTISTS PUBLISHING BEHAVIOR REWARD-SEEKING
+Web networks of the science system: Weighted hubs and authorities
+Scientific productivity and cooperation in Turkic world: a bibliometric
+The top-cited research works in the Science Citation Index Expanded
+Perspectives of webometrics
+Using altmetrics for assessing research impact in the humanities
+Bibliometric analysis of output and impact based on CRIS data: a case
+A simple interpretation of the growth of scientific/technological
+Out of particles: Impact of CERN, DESY and SLAC research to fields other
+Criticism on the hg-index
+INDUSTRIAL-RESEARCH IN INDIA AS VIEWED THROUGH RESEARCH AND INDUSTRY
+Mining citation information from CiteSeer data
+Comparative study of physics research in India and China based on
+Bibliometric study of the scientific research on "Learning to Rank"
+The fruits of collaboration in a multidisciplinary field
+In matters of quantitative studies of science the fault of theorists is
+The dangers of performance-based research funding in non-competitive
+Bibliometric analysis of AIDS literature in Central Africa
+A decade of in-text citation analysis based on natural language
+Why with bibliometrics the Humanities does not need to be the weakest
+HAS PRICE DREAM COME TRUE - IS SCIENTOMETRICS A HARD SCIENCE
+Using patent analyses to monitor the technological trends in an emerging
+Subfield-specific normalized relative indicators and a new generation of
+The implicit preference of bibliometrics for basic research
+Tracking R&D behavior: bibliometric analysis of drug patents in the
+Author disambiguation using multi-aspect similarity indicators
+A look at interdisciplinarity using bipartite scholar/journal networks
+Mapping the knowledge domain and the theme evolution of appropriability
+Analysing the conceptual evolution of qualitative marketing research
+INTERNATIONAL SCIENTIFIC COOPERATION AND AWARENESS WITHIN THE EUROPEAN
+Research evaluation of research-oriented universities in Taiwan from
+Home bias effect in the management literature
+A STOCHASTIC-MODEL FOR THE AGING OF SCIENTIFIC LITERATURE
+Collaboration uncovered: Exploring the adequacy of measuring
+A bibliometric study of differential item functioning
+Concept symbols revisited: Naming clusters by parsing and filtering of
+Mapping the evolution of library and information science (1978-2014)
+Research evolution in science parks and incubators: foundations and new
+Towards a European economics of economics: Monitoring a decade of top
+Review and analysis of publications on scientific mobility: assessment
+Mapping the scientific research in organic farming: a bibliometric
+Which h-index? An exploration within the Web of Science
+Restructuring the Japanese national research system and its effect on
+"Sleeping beauty'' and her restless sleep: Charles Dotter and the birth
+Comprehensive exploration of urban health by bibliometric analysis: 35
+The influence of international collaboration on the impact of research
+Reviewing the transport domain: an evolutionary bibliometrics and
+A bibliometric measure of translational science
+Applying the h-index in exploring bibliometric properties of elite
+Bibliometric analysis of articles published in ISI dental journals,
+Bibliometric indicators and the competitive environment of R&D
+BIBLIOMETRIC ANALYSIS OF BIBLIOGRAPHIC BEHAVIORS IN ECONOMIC SCIENCES
+Impact factors, scientometrics and the history of citation-based
+THE USE OF BIBLIOMETRIC INDICATORS IN THE STUDY OF INSECTICIDE RESEARCH
+Anticipating technological breakthroughs: Using bibliographic coupling
+Classifying and ranking topic terms based on a novel approach: role
+Bibliometric analysis of pentachlorophenol remediation methods during
+Mapping collaboration in international coffee certification research
+A decade of research in statistics: a topic model approach
+Future publication success in science is better predicted by traditional
+A comparative study of Ocean Engineering research between China and the
+Global food allergy research trend: a bibliometric analysis
+A multidimensional extension to Hirsch's h-index
+Predicting results of the Research Excellence Framework using
+A bibliometric analysis of world volatile organic compounds research
+Experience on research evaluation at the Joint Research Centre of the
+The organizational socialization field fragmentation: a bibliometric
+Quantitative analysis of collaborative and mobility networks
+Bibliometric indicators of young authors in astrophysics: Can later
+From initial dissemination to consolidated impact: the concept of crisis
+Medical subject headings versus American Psychological Association Index
+Exploring scientific articles contributed by industries in Taiwan
+Ranking of research output of universities on the basis of the
+CAN THE ASSIGNMENT OF UNIVERSITY CHAIRS BE AUTOMATED
+Exploring the management information systems discipline: a scientometric
+The big challenge of Scientometrics 2.0: exploring the broader impact of
+Can the centre-periphery model explain patterns of international
+The evolution of conceptual diversity in economics titles from 1890 to
+Characteristics of Journal Impact Factors: The effects of uncitedness
+Generating process of emerging topics in the life sciences
+Diseases and vector: a 10 years view of scientific literature on Aedes
+The impact of thenational assessment exercises on self-citation rate and
+Scientific relatedness in solar energy: a comparative study between the
+Intertwining globality and locality: bibliometric analysis based on the
+A bibliometric analysis of research on Central Asia during 1990-2014
+Climate change and interdisciplinarity: a co-citation analysis of IPCC
+A structural analysis of publication profiles for the classification of
+Retractions in the Middle East from 1999 to 2018: a bibliometric
+A few special cases: scientific creativity and network dynamics in the
+How to evaluate individual researchers working in the natural and life
+AN INDICATOR OF CROSS-DISCIPLINARY RESEARCH
+Economics in Latin America: a bibliometric analysis
+Using hybrid methods and 'core documents' for the representation of
+Citation structure of an emerging research area on the verge of
+Bibliometric study of Electronic Commerce Research in Information
+Unveiling the intellectual origins of Social Media-based innovation:
+Discovering seminal works with marker papers
+Four decades of fuzzy sets theory in operations management: application
+Same data-different results? Towards a comparative approach to the
+Triple helix in the agricultural sector of Northeast Asian countries: a
+Information science as "Little Science": The implications of a
+Historical analysis of pharmacoeconomic terms
+Scientific publication performance in post-communist countries: still
+Visualizing and comparing four facets of scholarly communication:
+Publications from Serbia in the Science Citation Index Expanded: a
+Cluster methods for assessing research performance: exploring Spanish
+Are highly cited papers more international?
+g(m)-index: a new mentorship index for researchers
+What makes an article influential? Predicting impact in social and
+Measuring, analysis and visualization of research capacity of university
+Bibliometric trend analysis on global graphene research
+A diachronic study of historiography
+hIa: an individual annual h-index to accommodate disciplinary and career
+Examining the relationship of co-authorship network centrality and
+BIBLIOMETRIC ANALYSIS OF PUBLICATIONS OF SPANISH PHARMACOLOGISTS IN THE
+Characteristics of monographic special issues in Ibero-American
+Network structure, distribution and the growth of Chinese international
+Can applied science be 'good science'? Exploring the relationship
+Bridging citation and reference distributions: Part I - The
+Predictive power of conference-related factors on citation rates of
+Independent publications from Serbia in the Science Citation Index
+Landmark papers written by the Nobelists in physics from 1901 to 2012: a
+Disciplinary determinants of bibliometric impact in Danish industrial
+Assessment of world aerosol research trends by bibliometric analysis
+Beyond the Durfee square: Enhancing the h-index to score total
+ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS) AND THE EPIDEMIC GROWTH OF ITS
+Measuring knowledge transfer between fields of science
+A methodology for technology trend monitoring: the case of semantic
+The effect of technology on learning research trends: a bibliometric
+Mapping recent information behavior research: an analysis of
+Collaboration patterns of Taiwanese scientific publications in various
+Bibliometric study of family business succession between 1939 and 2017:
+Can alternative indicators overcome language biases in citation counts?
+Evaluating technological emergence using text analytics: two case
+Gender gaps in scientific performance: a longitudinal matching study of
+Google Scholar, Scopus and the Web of Science: a longitudinal and
+The Scholarly Database and its utility for scientometrics research
+Assessing the quality of scholarly journals in Linguistics: An
+The international visibility and citation impact of Scandinavian
+SCIENTIFIC PRODUCTION OF SPANISH UNIVERSITIES IN THE FIELDS OF
+IS TECHNOLOGY BECOMING SCIENCE
+Collaborative interdisciplinary astrobiology research: a bibliometric
+Variation in research collaboration patterns across academic ranks
+The transaction costs theory in international business research: a
+Interactions among stakeholders in the processes of city logistics: a
+Patent research in the field of library and information science: Less
+Detection method of emerging leading papers using time transition
+Publication activity in complementary and alternative medicine
+Analyzing the citation characteristics of books: edited books, book
+3 NEW PARAMETERS IN BIBLIOMETRIC RESEARCH AND THEIR APPLICATION TO
+Self-defined information indices: application to the case of university
+Time series-based bibliometric analysis of the dynamics of scientific
+Characteristics of research on bioinformatics in China assessed with
+Qualifying the performance evaluation of Big Science beyond
+The Brazilian academic genealogy: evidence of advisor-advisee
+A comparative analysis of global and national university ranking systems
+Determinants of the emergence of modern scientific knowledge in
+A hybrid mapping of information science
+What do university rankings by fields rank? Exploring discrepancies
+Two decades of "scientometrics" - An interdisciplinary field represented
+Why highly cited articles are not highly tweeted? A biology case
+Citation-based clustering of publications using CitNetExplorer and
+A bibliometric study of China's science and technology policies:
+National-scale research performance assessment at the individual level
+Reflections around 'the cautionary use' of the h-index: response to
+Assessing public-private research collaboration: is it possible to
+Citations to the "Introduction to informetrics" indexed by WOS, Scopus
+Do journals flipping to gold open access show an OA citation or
+Bibliometric analysis for characterization of oil production in
+Is climate change controversy good for science? IPCC and contrarian
+Knowledge generation in the wake of the Fukushima Daiichi nuclear power
+Study of international anticancer research trends via co-word and
+Predicting the research performance of early career scientists
+A bibliometric analysis to illustrate the role of an embedded research
+Health warning: might contain multiple personalities-the problem of
+What is the best article publishing strategy for early career
+A bibliometric analysis of industrial wastewater research: current
+A distributional approach to multinationality measures of international
+Field normalized citation rates, field normalized journal impact and
+Galton 2011 revisited: a bibliometric journey in the footprints of a
+Aggregation properties of relative impact and other classical
+Exploring the scope of open innovation: a bibliometric review of a
+Marine shrimp fisheries research-a mismatch on spatial and thematic
+Mapping the structure and evolution of chemistry research
+From little things, big things grow; trends and fads in 110 years of
+Designing a Composite Index for research performance evaluation at the
+Bias against research on gender bias
+A delineating procedure to retrieve relevant publication data in
+Research collaboration at Nordic universities
+Using ISI's 'Highly Cited Researchers' to obtain a country level
+Antisemitism and Islamophobia: what does a bibliometric study reveal?
+Geographical knowledge diffusion and spatial diversity citation rank
+On the map: Nature and Science editorials
+BESIDES ACADEMIC PUBLICATIONS - WHICH SECTORS COMPETE, OR ARE THERE
+University-industry R&D linkage metrics: validity and applicability in
+Using archetypoid analysis to classify institutions and faculties of
+How to interpret the position of private sector institutions in
+National research assessment exercises: a measure of the distortion of
+Pennants for Garfield: bibliometrics and document retrieval
+Scientific collaboration in biotechnology: the case of the northeast
+A bibliometric analysis of research related to ocean circulation
+Determining the core of journals of a research centre: The example of
+Do Scopus and WoS correct "old" omitted citations?
+Does the citation period have any effect on the informative value of
+A CHARACTERIZATION OF SCIENTOMETRIC DISTRIBUTIONS BASED ON HARMONIC
+On the h-index - A mathematical approach to a new measure of publication
+BIBLIOMETRIC APPROACH TO RESEARCH PERFORMANCE IN THE FIELD OF REFRACTORY
+Twenty-first century macro-trends in the institutional fabric of
+Bibliometric study of the relationship between business model and air
+h-Type hybrid centrality measures for weighted networks
+Role taxonomy of green and sustainable science and technology journals:
+Sources of doubt: actors, forums, and language of climate change
+Fixed-income securities: bibliometric review with network analysis
+Sources of atmospheric pollution: a bibliometric analysis
+Contribution of Hacettepe University Faculty of Medicine to the world's
+A multivariate analysis of publication trends in the 1980s with special
+The scientific base for orthopaedic device development in South Africa:
+Change in the publishing regime in Latin America: from a local to
+Calibrating the zoom - a test of Zitt's hypothesis
+Cross-national distance and international business: an analysis of the
+The unit of analysis (objects of study) in bibliometrics and
+Challenges to the validity of topic reconstruction
+Political science publications about Turkey
+Characteristics of research collaboration in biotechnology in China:
+A data science-based framework to categorize academic journals
+A bibliometric analysis on the performance and underlying dynamic
+Mean values of skewed distributions in the bibliometric assessment of
+Citation regression analysis of computer science publications in
+Vector-valued impact measures and generation of specific indexes for
+Research productivity in education and psychology in the Philippines and
+Some citation-related characteristics of scientific journals published
+Resilience thinking: a bibliometric analysis of socio-ecological
+Journal relatedness: An actor-actor and actor-objectives case study
+Sorry, we're open: Golden open-access and inequality in non-human
+A longitudinal study of Google Scholar coverage between 2012 and 2013
+National research contributions: A case study on Finnish biomedical
+MODELING MULTINATIONAL PUBLICATION - DEVELOPMENT OF AN ONLINE
+USE OF PUBLICATION LISTS TO STUDY SCIENTIFIC PRODUCTION AND STRATEGIES
+Rejoinder to "Multiple versions of the h-index: cautionary use for
+Research status and characteristics of library and information science
+Scientific publications by anesthesia departments in East Asia
+Two new kids on the block: How do Crossref and Dimensions compare with
+Comparison of environmental laws publications in Science Citation Index
+Characteristics of international collaboration in sport sciences
+Rethinking SME default prediction: a systematic literature review and
+The objectivity of national research foundation peer review in South
+LITTLE SCIENTOMETRICS, BIG SCIENTOMETRICS ... AND BEYOND
+International comparative study on nanofiltration membrane technology
+The scientific production of Ibero-American authors on information
+Maturity models: identifying the state-of-the-art and the scientific
+The mathematical review system: does reviewer status play a role in the
+Tracking developments in artificial intelligence research: constructing
+A bibliometric analysis for the research on river water quality
+EU-EAEU dilemma of Armenia: Does science support politics?
+Why authors think their papers are highly cited
+US research assessment: Recent developments
+Using neural-network based paragraph embeddings for the calculation of
+Surviving in the dispute: A bibliometric analysis of global GMF-related
+Key factors and considerations in the assessment of international
+New quality and quantity indices in science (NewQIS): results of the
+Evaluating human versus machine learning performance in classifying
+Knowledge flow out of the domain of information science: a bibliometric
+The effects of changes in the funding structure of the Flemish
+Nobel laureates are not hot
+Informetrics and the study of science-society communications: a
+Discovering the interdisciplinary nature of Big Data research through
+Has the Global South become a playground for Western scholars in
+Relationships between consumption, publication and impact in French
+A bibliometric analysis of research papers related to the Mekong River
+A bibliometric analysis of micro/nano-bubble related research: current
+Alzheimer's disease research in the future: bibliometric analysis of
+A bibliometric analysis of research on proteomics in Science Citation
+Standardization problem of author affiliations in citation indexes
+On a statistical h index
+Investigating the integrated landscape of the intellectual topology of
+Age-sensitive bibliographic coupling reflecting the history of science:
+Source normalized indicators of citation impact: an overview of
+Defining the intellectual structure of information systems and related
+Reasons for and developments in international scientific collaboration:
+COLLABORATION IN INDIAN PHYSICS - A CASE-STUDY OF THE MACRO AND MICRO
+THE CONCEPT OF ENTROPY IN SCIENTOMETRICS AND INNOVATION RESEARCH - AN
+Efficiency and performance analysis of economics research using hesitant
+Visualizing the context of citations referencing papers published by
+Major trends in knowledge management research: a bibliometric study
+Studying grant decision-making: a linguistic analysis of review reports
+A new approach to analyzing patterns of collaboration in co-authorship
+International collaboration: Will it be keeping alive east European
+Who profits from the Canadian nanotechnology reward system? Implications
+A bibliometric analysis of hydrogen energy literature, 1965-2005
+Research productivity of scientists in consolidated vs. non-consolidated
+The dynamics of the studies of China's science, technology and
+Building direct citation networks
+Technical report: the trend of author compound names and its
+Specific character of citations in historiography (using the example of
+Institutional research rankings via bibliometric analysis and direct
+Bibliometric indicators in the context of regional repositories:
+Productivity, visibility, authorship, and collaboration in library and
+Structural and longitudinal analysis of the knowledge base on spin-off
+The success-index: an alternative approach to the h-index for evaluating
+A bibliometric method for assessing technological maturity: the case of
+Diversified resources and academic influence: patterns of
+Publication activity, citation impact and bi-directional links between
+Competition for funding as an indicator of research competitiveness
+Modelling and measuring multilateral co-authorship in international
+External research collaboration in two small science systems
+Consistency index: measuring the performances of scholar journal
+Scientific publishing in West Africa: comparing Benin with Ghana and
+How the European Union writes about ophthalmology
+Bibliometric analysis of fracking scientific literature
+CITEDNESS AND UNCITEDNESS OF CANCER ARTICLES
+Is science becoming more interdisciplinary? Measuring and mapping six
+Funding of young scientist and scientific excellence
+Research on women in science and higher education: a bibliometric
+UK research assessment exercises: Informed judgments on research quality
+Can scientific impact be judged prospectively? A bibliometric test of
+Subject content analysis of AIDS literature, as produced in Latin
+Profiling citation impact: A new methodology
+Bibliometric analysis of complementary and alternative medicine research
+Growing scientific collaboration between Hong Kong and Mainland China
+Analysis of the microbial risk assessment studies from 1973 to 2015: a
+Progress in global parallel computing research: a bibliometric approach
+Ecodesign field of research throughout the world: mapping the territory
+Structure and evolution of innovation research in the last 60 years:
+The production of science in Africa: an analysis of publications in the
+Information literacy in social sciences and health sciences: a
+A call for governments to pause Twitter censorship: using Twitter data
+Bibliometric indicators of Indian research collaboration patterns: A
+Science in Mexico: a bibliometric analysis
+Research impact and productivity of Southeast Asian countries in
+Transdisciplinary knowledge production in mainstream journals: from the
+Analysis of bibliometric indicators for individual scholars in a large
+Research collaboration in Ghana: patterns, motives and roles
+A bibliometric assessment of ASEAN collaboration in plant biotechnology
+Proposals for evaluating the regularity of a scientist's research output
+Is open access the solution to increase the impact of scientific
+A bibliometric analysis and comparison on three information science
+Fifteen years after September 11: Where is the medical research heading?
+Delayed recognition of Judah Folkman's hypothesis on tumor angiogenesis:
+A matter of time: publication dates in Web of Science Core Collection
+Should I stay or should I go? Using bibliometrics to identify the
+Quantifying the internationality and multidisciplinarity of authors and
+A bibliometric analysis of research on Antarctica during 1993-2012
+Factors associated with publication speed in general medical journals: a
+Analysis of the ch-index: an indicator to evaluate the diffusion of
+Peer review of grant applications in biology and medicine. Reliability,
+Global trends of solid waste research from 1997 to 2011 by using
+Mapping research fields using co-nomination: the case of
+A boosted-trees method for name disambiguation
+Statistical tests for 'related records' search results
+China and India: The two new players in the nanotechnology race
+African regional innovation systems: bibliometric analysis of research
+Silver nanoparticles, research and development in Mexico: a bibliometric
+Journal clustering of library and information science for subfield
+The national system of researchers in Mexico: implications of
+Characteristics and impact of grant-funded research: a case study of the
+Bibliometric and review of the research on circular economy through the
+Bibliometric analysis of Egyptian publications on Hepatitis C virus from
+Assessing the publication output on country level in the research field
+'Are principals instructional leaders yet?' A science map of the
+A co-citation bibliometric analysis of strategic management research
+Focus on China: the current status of entrepreneurship research in China
+Introducing a novelty indicator for scientific research: validating the
+Big data and false discovery: analyses of bibliometric indicators from
+Trends and performance of oxidative stress research from 1991 to 2010
+Challenges in the study of Cuban scientific output
+Scientific knowledge production and research collaboration between
+Research performance and collaboration in the Novosibirsk region
+Global stem cell research trend: Bibliometric analysis as a tool for
+Research networks on the access of drinking water in Mexico City
+An item-by-item subject classification of papers published in journals
+Technological relevance of science: An assessment of citation linkages
+Is there a gender-based fragmentation of communication science? An
+Tracing the indirect societal impacts of biomedical research:
+RETRACTED: The financial crisis research: a bibliometric analysis
+How multiple networks help in creating knowledge: evidence from
+A bibliometric analysis of plagiarism and self-plagiarism through Deja
+The productivity of Mexican astronomers in the field of outflows from
+Scientific literature analysis on big data and internet of things
+On the bibliometric coordinates of four different research fields in
+Characterization, description, and considerations for the use of funding
+Do age and professional rank influence the order of authorship in
+Benchmarking scientific performance by decomposing leadership of Cuban
+Do they agree? Bibliometric evaluation versus informed peer review in
+Mapping the development of Open Access in Latin America and Caribbean
+MapReduce: Review and open challenges
+Mapping the dynamics of knowledge base of innovations of R&D in
+Institutional change and scientific research: A preliminary bibliometric
+A bibliometric study of China's semiconductor literature compared with
+THE GROWTH OF BIOPHYSICAL LITERATURE
+Towards a systematic description of the field using bibliometric
+Mapping intellectual structures and dynamics of transport geography
+BRAZILIAN PRODUCTION IN BIOCHEMISTRY - THE QUESTION OF INTERNATIONAL
+A domain keyword analysis approach extending Term Frequency-Keyword
+Collaborations in communication: Authorship credit allocation via a
+Phases of growth in a green tech research network: a bibliometric
+Bibliometric assessment of papers on generations in management and
+Sample size in bibliometric analysis
+Industry 4.0 technologies basic network identification
+Assessing the maturity of a research area: bibliometric review and
+Meta-analysis on big data of bioactive compounds from mangrove ecosystem
+The selection of high-quality manuscripts
+Scholarly research in LIS open access electronic journals: A
+Bibliometric analysis of the Welfare Topic
+THE USE OF BIBLIOMETRIC TECHNIQUES FOR INSTITUTIONAL RESEARCH EVALUATION
+Intellectual contribution of Indian periodontists to world literature: a
+Bibliometric and webometric analysis of health system reforms in Latin
+The emergent dynamics of a technological research topic: the case of
+Rankings, research styles, and publication cultures: a study of American
+Intellectual structure of stem cell research: a comprehensive author
+Characteristics of research in China assessed with Essential Science
+Mathematics 1868-2008: a bibliometric analysis
+What happens when a journal converts to open access? A bibliometric
+Balassa = revealed competitive advantage = activity
+Classic articles on social work field in Social Science Citation Index:
+An evaluation of percentile measures of citation impact, and a proposal
+Innovativeness: a bibliometric vision of the conceptual and intellectual
+Global research trends of geographical information system from 1961 to
+A bibliometric analysis on rural studies in human geography and related
+State of research and future research tendencies in lean healthcare: a
+A deep-learning based citation count prediction model with paper
+The classification of citing motivations: a meta-synthesis
+South African universities in world rankings
+Analysis of the international impact of the Brazilian base
+Cross-country differences in publishing productivity of academics in
+A bibliometric analysis of publications in computer networking research
+A bibliometric analysis of solar power research from 1991 to 2010
+Participation of Mexican Civil Society Organizations in scientific
+Bibliometric analysis of bioeconomy research in South Africa
+Grey system theory trends from 1991 to 2018: a bibliometric analysis and
+An analysis of the patenting activities and collaboration among
+A systematic method to create search strategies for emerging
+WORLD SCIENCE IN 18 DISCIPLINARY AREAS - COMPARATIVE-EVALUATION OF THE
+COVID-19 enabled co-authoring networks: a country-case analysis
+Comprehensive evaluation of h-index and its extensions in the domain of
+Nanoscience and nanotechnology research publications: a comparison
+Bibliometrics as a tool for measuring gender-specific research
+Scientific impact of an author and role of self-citations
+Contextualization of topics: browsing through the universe of
+Quantitative study on Australian academic science
+A bibliometric analysis of Technology Centres
+Analysis of journal evaluation indicators: an experimental study based
+Open access in ethics research: an analysis of open access availability
+Mapping of diseases from clinical medicine research-a visualization
+Expansion of scientific journal categories using reference analysis: How
+A bibliometric study of the publication patterns in the sciences of
+Researchers' attitudes towards the h-index on Twitter 2007-2020:
+Comparative study on structure and correlation among author
+How is credit given to networking centres in their publications? A case
+RTRS: a recommender system for academic researchers
+Measuring regional science networks in China: a comparison of
+A citation analysis of Iranian journals to open access (OA) articles and
+Neurosciences in Brazil: a bibliometric study of main characteristics,
+A NEW APPROACH TO DEFINING A MULTIDISCIPLINARY FIELD OF SCIENCE - THE
+Types of evidence cited in Australian Government publications
+Impact of country self-citations on bibliometric indicators and ranking
+Interdisciplinary relations of converging technologies:
+Large-scale assessment of research outputs through a weighted
+Relative age of references as a tool to identify emerging research
+Evolution of the publications in clinical neurology: scientific impact
+A historical review and bibliometric analysis of GPS research from
+Scientific output and its relationship to knowledge economy: an analysis
+Global trends in sediment-related research in earth science during
+Charting the Open Access scholarly journals landscape in the UAE
+Bibliometric analysis of research progress in membrane water treatment
+Comparative analysis of health public policy research results among
+SCIENTIFIC COOPERATION IN EUROPE AND THE CITATION OF MULTINATIONALLY
+Response to Dr. Copiello's comments on "The impact of video abstract on
+Latin American scientific output in Public Health: combined analysis
+Global trends in DEM-related research from 1994 to 2013: a bibliometric
+International collaboration in LIS: global trends and networks at the
+iMetrics: the development of the discipline with many names
+Cardiovascular disease research in Saudi Arabia: a bibliometric analysis
+Scientific collaboration of Cuban researchers working in Europe:
+A bibliometric portrait of the evolution, scientific roots and influence
+More than meets the eye: traditions, nucleus and peripheries of the
+A quantitative examination of the intellectual profile and evolution of
+Quantitative analysis of automatic performance evaluation systems based
+The coverage of Microsoft Academic: analyzing the publication output of
+Investigation of the degree to which articles supported by research
+Reflection of cross-disciplinary research at Creative Research
+Global performance of traditional Chinese medicine over three decades
+Research on political instability, uncertainty and risk during
+Scientific output of the emerging Cuban biopharmaceutical industry: a
+Journal impact measures in bibliometric research
+An intersectional approach to analyse gender productivity and open
+A scientometric analysis of reproductive medicine
+What characterises funded biomedical research? Evidence from a basic and
+Comparison of medical research performance by thermodynamic and citation
+Chronic anthropogenic disturbances in ecology: a bibliometric approach
+Scientific potential of European fully open access journals
+Mapping the research history, collaborations and trends of remote
+Core journals and elite subsets in scientometrics
+A bibliometric study of human-computer interaction research activity in
+The Pinski-Narin influence weight and the Ramanujacharyulu
+Microsoft Academic: is the phoenix getting wings?
+Which early works are cited most frequently in climate change research
+Applied physics in Mexico: mining the past to predict the future
+Relating research growth, authorship patterns and publishing outlets: a
+Scientometric analysis of phosphorus research in eutrophic lakes
+Bonded-communities in HantaVirus research: a research collaboration
+Acceleration of citing behavior after the millennium? Exemplary
+Are there global shifts in the world science base? Analysing the
+Do open access journal articles experience a citation advantage? Results
+From cut-points to key players in co-authorship networks: a case study
+Scientific production and citation impact: a bibliometric analysis in
+Exploring a prototype framework of web-based and peer-reviewed "European
+Nitrogen research at watershed scale: a bibliometric analysis during
+Gender disparity in research productivity across departments in the
+Assessing the publication impact using citation data from both Scopus
+Participation of 'international national organisations' in Africa's
+Disciplinarity and interdisciplinarity in citation and reference
+Can social media usage of scientific literature predict journal indices
+Collaboration network and pattern analysis: case study of dye-sensitized
+Gaining scientific recognition by position: Does editorship increase
+Life sciences research in Venezuela
+Exploring the bibliometric and semantic nature of negative results
+The journal coverage of Web of Science, Scopus and Dimensions: A
+Openness trends in Brazilian citation data: factors related to the use
+Funding acknowledgement analysis: an enhanced tool to investigate
+Early insights on the Emerging Sources Citation Index (ESCI): an overlay
+Mapping the research on aquaculture. A bibliometric analysis of
+Bibliometric analysis of homeopathy research during the period of 1991
+Analysis of publications on sturgeon research between 1996 and 2010
+Research in non-metropolitan universities as a new stage of science
+Towards the automation of address identification
+How scientific research reacts to international public health
+Early citation counts correlate with accumulated impact
+Research trend of metal-organic frameworks: a bibliometric analysis
+Top journals selectivity index and "me-too" drugs
+The changing dynamics in citation index publication position China in a
+A surname-based bibliometric indicator: publications in biomedical
+Analysis of the evolution and collaboration networks of citizen science
+Does the Scopus author ID suffice to track scientific international
+South African research in selected scientific areas: Status 1981-2000
+Research performance and trends in child sexual abuse research: a
+Selection of research fellowship recipients by committee peer review.
+Scientometric analysis and dimensions on international business
+Relativity of citation performance and excellence measures: From
+Evaluation of accounting journals by coverage of accounting topics in
+Evaluation of publications by the part-set method
+Top Journals Selectivity Index: is it acceptable for drugs beyond the
+An overview of the Web of Science record of scientific publications
+The influence of academic advisors on academic network of Physics
+CHARACTERISTICS OF THE PUBLISHING INFRASTRUCTURE OF PERIPHERAL COUNTRIES
+THE GROWTH OF KNOWLEDGE AND LITERATURE IN NEUROSCIENCE
+First systematic review on PM-bound water: exploring the existing
+Mapping and clustering analysis on neuroscience literature in Turkey: a

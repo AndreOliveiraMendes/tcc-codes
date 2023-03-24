@@ -10467,7 +10467,8 @@ SO SCIENTOMETRICS
 VL 109
 IS 1
 BP 85
-EP 101
+EP 101
+
 DI 10.1007/s11192-016-1960-z
 PD OCT 2016
 PY 2016
@@ -14785,7 +14786,8 @@ Z9 136
 SN 0138-9130
 EI 1588-2861
 UT WOS:000167170600006
-ER
+ER
+
 
 PT J
 AU Hammarfelt, Bjoern
@@ -17150,7 +17152,8 @@ VL 105
 IS 2
 BP 1239
 EP 1252
-DI 10.1007/s11192-015-1747-7
+DI 10.1007/s11192-015-1747-7
+
 PD NOV 2015
 PY 2015
 RI Merigo, Jose M./K-1500-2019; Bonilla, Claudio/P-4777-2016
@@ -26555,7 +26558,8 @@ TI A systematic method to create search strategies for emerging
    technologies based on the Web of Science: illustrated for 'Big Data'
 SO SCIENTOMETRICS
 VL 105
-IS 3
+IS 3
+
 BP 2005
 EP 2022
 DI 10.1007/s11192-015-1638-y

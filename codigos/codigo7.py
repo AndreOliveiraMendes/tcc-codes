@@ -1,4 +1,4 @@
-top = input()
+top = input("especifique o top do qual quer o grau de separação (ou enter caso queira do rank do tamanho da menor lista):")
 lenght = min(len(l1), len(l2))
 dist = 0
 lt1, lt2 = [], []
